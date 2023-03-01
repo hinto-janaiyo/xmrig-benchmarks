@@ -1,0 +1,19 @@
+[
+    {
+        "cpu": "AMD EPYC 7T83 64-Core Processor",
+		"rank": 1,
+		"percent": 100.00,
+        "benchmarks": 28,
+        "average": 89757.3005578,
+        "high": 103706.4692095493,,
+        "low": 31569.642631645413,
+    },
+    {
+        "cpu": "AMD Eng Sample: 100-000000053-04_32/20_N",
+		"rank": 2,
+		"percent": 98.17,
+        "benchmarks": 82,
+        "average": 44950.4996690,
+        "high": 101803.96628252637,,
+        "low": 10446.91920352688,
+    },
