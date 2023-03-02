@@ -2491,8 +2491,8 @@
     "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
     "hashrate": 9099.843482692098,
     "hashrate_1t": 1008.328795853752,
-    "count": 832,
-    "size": 1336000000,
+    "count": 833,
+    "size": 1337000000,
     "threads": 12
   },
   {
@@ -2635,8 +2635,8 @@
     "cpu": "AMD Ryzen 5 5600 6-Core Processor",
     "hashrate": 8347.384764353328,
     "hashrate_1t": 761.320068092467,
-    "count": 33,
-    "size": 42000000,
+    "count": 39,
+    "size": 48000000,
     "threads": 12
   },
   {
@@ -6715,8 +6715,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E31270 @ 3.40GHz",
     "hashrate": 2169.347980770899,
     "hashrate_1t": 542.3369951927248,
-    "count": 3,
-    "size": 3000000,
+    "count": 4,
+    "size": 4000000,
     "threads": 4
   },
   {
@@ -8003,8 +8003,8 @@
     "cpu": "Intel(R) Core(TM) i7-3610QE CPU @ 2.30GHz",
     "hashrate": 1518.771253305226,
     "hashrate_1t": 506.25708443507534,
-    "count": 3,
-    "size": 3000000,
+    "count": 4,
+    "size": 4000000,
     "threads": 3
   },
   {
