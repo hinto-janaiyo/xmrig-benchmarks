@@ -660,7 +660,7 @@
 | 658 - 🔴 | 2.82% | AMD Opteron(tm) Processor 6128 | 1 | 2929 | 2929 | 2929 |
 | 659 - 🔴 | 2.82% | Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz | 44 | 1312 | 2928 | 130 |
 | 660 - 🔴 | 2.82% | Intel(R) Xeon(R) E-2224 CPU @ 3.40GHz | 10 | 2121 | 2924 | 1176 |
-| 661 - 🔴 | 2.81% | Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz | 121 | 1660 | 2910 | 227 |
+| 661 - 🔴 | 2.81% | Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz | 122 | 1662 | 2910 | 227 |
 | 662 - 🔴 | 2.80% | AMD Ryzen 7 PRO 4700G with Radeon Graphics | 1 | 2905 | 2905 | 2905 |
 | 663 - 🔴 | 2.80% | AMD Ryzen 5 4500U with Radeon Graphics | 35 | 1817 | 2901 | 683 |
 | 664 - 🔴 | 2.79% | Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz | 8 | 1976 | 2898 | 1513 |
