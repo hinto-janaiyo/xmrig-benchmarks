@@ -62,7 +62,7 @@ for CPU in $CPU_LIST; do
 		sleep 5
 		((fail_count++))
 		if [[ $fail_count -gt 5 ]]; then
-			echo "CPU request failure: $CPU ... SKIPPING"
+			echo "********************************* CPU request failure: $CPU ... SKIPPING *********************************"
 			fail_count=0
 			continue 2
 		fi
@@ -71,12 +71,12 @@ for CPU in $CPU_LIST; do
 	# How many times a benchmark has been submitted.
 	# Continue on failure.
 	if ! COUNT=$(echo "$CPU_DATA" | grep -c id); then
-		echo "CPU failure: $CPU ... SKIPPING"
+		echo "********************************* CPU failure: $CPU ... SKIPPING *********************************"
 		continue
 	fi
 
 	# `\n` terminated list of hashrate from all benchmarks.
-	LIST=$(echo "$CPU_DATA" | grep "hashrate\"" | filter_json)
+	LIST=$(echo "$CPU_DATA" | grep "hashrate\"" | filter_json | tr -d '",')
 
 	# Highest hashrate.
 	HIGH=$(echo "$LIST" | head -n 1)
@@ -116,8 +116,8 @@ for CPU in $CPU_LIST; do
 cat << EOM >> "${DIR}/cpu.json"
     {
         "cpu": "$CPU",
-		"rank": $RANK,
-		"percent": $PERCENT,
+        "rank": $RANK,
+        "percent": $PERCENT,
         "benchmarks": $COUNT,
         "average": $AVERAGE,
         "high": $HIGH,
