@@ -1843,8 +1843,8 @@
     "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
     "hashrate": 11135.73345508402,
     "hashrate_1t": 695.9833409427512,
-    "count": 37,
-    "size": 46000000,
+    "count": 39,
+    "size": 57000000,
     "threads": 16
   },
   {
@@ -2011,8 +2011,8 @@
     "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
     "hashrate": 10516.131746098516,
     "hashrate_1t": 670.6521287169218,
-    "count": 39,
-    "size": 111000000,
+    "count": 40,
+    "size": 112000000,
     "threads": 16
   },
   {
@@ -2587,8 +2587,8 @@
     "cpu": "AMD Ryzen 5 3600 6-Core Processor",
     "hashrate": 8842.827582547794,
     "hashrate_1t": 1003.5042367948876,
-    "count": 1700,
-    "size": 3137000000,
+    "count": 1701,
+    "size": 3138000000,
     "threads": 12
   },
   {
@@ -3443,8 +3443,8 @@
     "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
     "hashrate": 5784.861018714026,
     "hashrate_1t": 723.1076273392532,
-    "count": 159,
-    "size": 267000000,
+    "count": 160,
+    "size": 268000000,
     "threads": 8
   },
   {
@@ -9803,8 +9803,8 @@
     "cpu": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
     "hashrate": 759.7208177938771,
     "hashrate_1t": 379.86040889693857,
-    "count": 29,
-    "size": 65000000,
+    "count": 30,
+    "size": 75000000,
     "threads": 2
   },
   {

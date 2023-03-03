@@ -4,12 +4,12 @@ This repo runs a GitHub Action every day that:
 3. Formats the data here in `JSON` and `Markdown`
 
 ## Stats
-* Uptime: `3` days
+* Uptime: `4` days
 * CPUs listed: `1606`
 * Fastest CPU: `AMD EPYC 7T83 64-Core Processor`
 * Slowest CPU: `Intel(R) Atom(TM) CPU N2600 @ 1.60GHz`
-* Total GitHub time used: `2662` seconds
-* Last updated: `Thu Mar  2 15:49:27 UTC 2023` (`1677772167`)
+* Total GitHub time used: `3504` seconds
+* Last updated: `Fri Mar  3 08:12:46 UTC 2023` (`1677831166`)
 
 ## List
 | Rank      | Relative % | CPU                                             | Benchmarks | Average | High   | Low   |
@@ -244,7 +244,7 @@ This repo runs a GitHub Action every day that:
 | 228 - 🟠  | 10.80%     | AMD Opteron(tm) Processor 6380                  | 9          | 5056    | 11204  | 948   |
 | 229 - 🟠  | 10.80%     | Intel(R) Xeon(R) Gold 6250 CPU @ 3.90GHz        | 1          | 11201   | 11201  | 11201 |
 | 230 - 🟠  | 10.77%     | Intel(R) Xeon(R) Gold 6268CL CPU @ 2.80GHz      | 6          | 9468    | 11168  | 7439  |
-| 231 - 🟠  | 10.74%     | AMD Ryzen 7 5700X 8-Core Processor              | 37         | 8569    | 11135  | 3371  |
+| 231 - 🟠  | 10.74%     | AMD Ryzen 7 5700X 8-Core Processor              | 39         | 8618    | 11135  | 3371  |
 | 232 - 🟠  | 10.72%     | 12th Gen Intel(R) Core(TM) i9-12900K            | 146        | 8783    | 11119  | 866   |
 | 233 - 🟠  | 10.62%     | Intel(R) Xeon(R) Gold 5215 CPU @ 2.50GHz        | 5          | 5961    | 11015  | 2290  |
 | 234 - 🟠  | 10.62%     | AMD Ryzen 7 3800XT 8-Core Processor             | 208        | 8703    | 11009  | 1209  |
@@ -265,7 +265,7 @@ This repo runs a GitHub Action every day that:
 | 249 - 🟠  | 10.24%     | Intel(R) Core(TM) i9-9980XE CPU @ 3.00GHz       | 1          | 10616   | 10616  | 10616 |
 | 250 - 🟠  | 10.21%     | Intel(R) Xeon(R) CPU E7- 4860 @ 2.27GHz         | 5          | 7623    | 10585  | 5598  |
 | 251 - 🟠  | 10.15%     | Intel(R) Xeon(R) Platinum P-8136 CPU @ 2.00GHz  | 2          | 10051   | 10522  | 9580  |
-| 252 - 🟠  | 10.14%     | AMD Ryzen 7 5800X3D 8-Core Processor            | 39         | 8899    | 10516  | 1341  |
+| 252 - 🟠  | 10.14%     | AMD Ryzen 7 5800X3D 8-Core Processor            | 40         | 8843    | 10516  | 1341  |
 | 253 - 🟠  | 10.12%     | Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz        | 2          | 10480   | 10490  | 10471 |
 | 254 - 🟠  | 10.04%     | Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz       | 31         | 6029    | 10408  | 2008  |
 | 255 - 🟠  | 10.02%     | Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz       | 16         | 5430    | 10396  | 650   |
@@ -337,7 +337,7 @@ This repo runs a GitHub Action every day that:
 | 321 - 🟠  | 8.59%      | Intel(R) Xeon(R) W-2295 CPU @ 3.00GHz           | 2          | 8190    | 8903   | 7477  |
 | 322 - 🟠  | 8.54%      | Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz       | 146        | 4925    | 8859   | 1302  |
 | 323 - 🟠  | 8.53%      | Intel(R) Core(TM) i9-9940X CPU @ 3.30GHz        | 3          | 6808    | 8850   | 5514  |
-| 324 - 🟠  | 8.53%      | AMD Ryzen 5 3600 6-Core Processor               | 1702       | 5939    | 8842   | 811   |
+| 324 - 🟠  | 8.53%      | AMD Ryzen 5 3600 6-Core Processor               | 1703       | 5939    | 8842   | 811   |
 | 325 - 🟠  | 8.42%      | Intel(R) Xeon(R) CPU E5-2648L v4 @ 1.80GHz      | 2          | 8426    | 8730   | 8121  |
 | 326 - 🟠  | 8.39%      | Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz        | 132        | 7963    | 8698   | 3392  |
 | 327 - 🟠  | 8.36%      | Intel(R) Xeon(R) CPU E5-2660 v4 @ 2.00GHz       | 5          | 6181    | 8673   | 3465  |
@@ -444,7 +444,7 @@ This repo runs a GitHub Action every day that:
 | 428 - 🔴  | 5.68%      | Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz        | 228        | 3312    | 5893   | 378   |
 | 429 - 🔴  | 5.64%      | Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz       | 20         | 5230    | 5850   | 2796  |
 | 430 - 🔴  | 5.58%      | Intel(R) Xeon(R) W-2265 CPU @ 3.50GHz           | 2          | 5537    | 5784   | 5289  |
-| 431 - 🔴  | 5.58%      | AMD Ryzen 7 5800H with Radeon Graphics          | 159        | 3369    | 5784   | 559   |
+| 431 - 🔴  | 5.58%      | AMD Ryzen 7 5800H with Radeon Graphics          | 160        | 3360    | 5784   | 559   |
 | 432 - 🔴  | 5.58%      | Intel(R) Xeon(R) CPU E5-1680 v2 @ 3.00GHz       | 2          | 4405    | 5784   | 3026  |
 | 433 - 🔴  | 5.57%      | Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz       | 69         | 3135    | 5781   | 1245  |
 | 434 - 🔴  | 5.57%      | 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  | 19         | 3115    | 5771   | 1061  |
@@ -1225,7 +1225,7 @@ This repo runs a GitHub Action every day that:
 | 1209 - 🗿 | 0.74%      | AMD Athlon(tm) X4 860K Quad Core Processor      | 5          | 655     | 770    | 474   |
 | 1210 - 🗿 | 0.74%      | Intel(R) Pentium(R) CPU G4600T @ 3.00GHz        | 1          | 768     | 768    | 768   |
 | 1211 - 🗿 | 0.74%      | Intel(R) Core(TM) i7 CPU 920 @ 2.67GHz          | 10         | 565     | 764    | 248   |
-| 1212 - 🗿 | 0.73%      | Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz        | 29         | 500     | 759    | 210   |
+| 1212 - 🗿 | 0.73%      | Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz        | 30         | 501     | 759    | 210   |
 | 1213 - 🗿 | 0.72%      | ARM Cortex-A55                                  | 4          | 470     | 751    | 104   |
 | 1214 - 🗿 | 0.72%      | Intel(R) Xeon(R) CPU L5430 @ 2.66GHz            | 2          | 701     | 747    | 654   |
 | 1215 - 🗿 | 0.72%      | Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz        | 7          | 596     | 747    | 220   |
