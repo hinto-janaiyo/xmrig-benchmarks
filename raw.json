@@ -43,8 +43,8 @@
     "cpu": "AMD EPYC 7H12 64-Core Processor",
     "hashrate": 95767.0944263551,
     "hashrate_1t": 550.7190187508811,
-    "count": 15,
-    "size": 60000000,
+    "count": 16,
+    "size": 61000000,
     "threads": 256
   },
   {
@@ -288,12 +288,28 @@
     "threads": 128
   },
   {
+    "cpu": "Intel(R) Xeon(R) Gold 6438N",
+    "hashrate": 43515.53286945775,
+    "hashrate_1t": 350.9317166891754,
+    "count": 2,
+    "size": 20000000,
+    "threads": 124
+  },
+  {
     "cpu": "AMD EPYC 7F72 24-Core Processor",
     "hashrate": 43457.47685889357,
     "hashrate_1t": 452.6820506134747,
     "count": 2,
     "size": 2000000,
     "threads": 96
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000%@",
+    "hashrate": 43068.547900838974,
+    "hashrate_1t": 578.6822710269989,
+    "count": 9,
+    "size": 27000000,
+    "threads": 124
   },
   {
     "cpu": "AMD EPYC 7543 32-Core Processor",
@@ -331,8 +347,8 @@
     "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
     "hashrate": 42365.70072869005,
     "hashrate_1t": 702.7209354621093,
-    "count": 234,
-    "size": 612000000,
+    "count": 237,
+    "size": 615000000,
     "threads": 64
   },
   {
@@ -608,14 +624,6 @@
     "threads": 64
   },
   {
-    "cpu": "Genuine Intel(R) CPU 0000%@",
-    "hashrate": 27404.017428955085,
-    "hashrate_1t": 578.6822710269989,
-    "count": 8,
-    "size": 17000000,
-    "threads": 48
-  },
-  {
     "cpu": "Intel(R) Xeon(R) Platinum 8373C CPU @ 2.60GHz",
     "hashrate": 27222.58821479711,
     "hashrate_1t": 388.8941173542444,
@@ -755,8 +763,8 @@
     "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
     "hashrate": 23370.49241627521,
     "hashrate_1t": 991.2905214782918,
-    "count": 4036,
-    "size": 7250000000,
+    "count": 4037,
+    "size": 7251000000,
     "threads": 32
   },
   {
@@ -1339,8 +1347,8 @@
     "cpu": "AMD Ryzen 9 3900 12-Core Processor",
     "hashrate": 15238.095238095237,
     "hashrate_1t": 680.8651562898732,
-    "count": 117,
-    "size": 234000000,
+    "count": 118,
+    "size": 235000000,
     "threads": 24
   },
   {
@@ -2491,8 +2499,8 @@
     "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
     "hashrate": 9099.843482692098,
     "hashrate_1t": 1008.328795853752,
-    "count": 833,
-    "size": 1337000000,
+    "count": 834,
+    "size": 1338000000,
     "threads": 12
   },
   {
@@ -2587,8 +2595,8 @@
     "cpu": "AMD Ryzen 5 3600 6-Core Processor",
     "hashrate": 8842.827582547794,
     "hashrate_1t": 1003.5042367948876,
-    "count": 1701,
-    "size": 3138000000,
+    "count": 1704,
+    "size": 3150000000,
     "threads": 12
   },
   {
@@ -2971,8 +2979,8 @@
     "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
     "hashrate": 7160.553940452834,
     "hashrate_1t": 947.5807788924486,
-    "count": 80,
-    "size": 179000000,
+    "count": 81,
+    "size": 180000000,
     "threads": 8
   },
   {
@@ -3443,8 +3451,8 @@
     "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
     "hashrate": 5784.861018714026,
     "hashrate_1t": 723.1076273392532,
-    "count": 160,
-    "size": 268000000,
+    "count": 161,
+    "size": 269000000,
     "threads": 8
   },
   {
@@ -3459,8 +3467,8 @@
     "cpu": "Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz",
     "hashrate": 5781.182251770488,
     "hashrate_1t": 722.647781471311,
-    "count": 69,
-    "size": 78000000,
+    "count": 70,
+    "size": 79000000,
     "threads": 8
   },
   {
@@ -5131,8 +5139,8 @@
     "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
     "hashrate": 3038.765531890325,
     "hashrate_1t": 607.0333309861378,
-    "count": 114,
-    "size": 178000000,
+    "count": 115,
+    "size": 179000000,
     "threads": 6
   },
   {
@@ -7979,8 +7987,8 @@
     "cpu": "Intel(R) Core(TM) i5-1035G7 CPU @ 1.20GHz",
     "hashrate": 1527.1955344802573,
     "hashrate_1t": 509.06517816008574,
-    "count": 2,
-    "size": 2000000,
+    "count": 3,
+    "size": 12000000,
     "threads": 3
   },
   {
@@ -8355,8 +8363,8 @@
     "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx",
     "hashrate": 1370.6271852937189,
     "hashrate_1t": 653.3949092695829,
-    "count": 68,
-    "size": 140000000,
+    "count": 69,
+    "size": 141000000,
     "threads": 8
   },
   {
