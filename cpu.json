@@ -39,8 +39,8 @@
         "cpu": "AMD EPYC 7742 64-Core Processor",
         "rank": 5,
         "percent": 94.65,
-        "benchmarks": 77,
-        "average": 71334.5321039,
+        "benchmarks": 80,
+        "average": 72174.1577393,
         "high": 98162.39987435214,
         "low": 4291.587629927815
     },
@@ -390,8 +390,8 @@
         "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
         "rank": 44,
         "percent": 40.85,
-        "benchmarks": 237,
-        "average": 23790.6424451,
+        "benchmarks": 238,
+        "average": 23833.0102973,
         "high": 42365.70072869005,
         "low": 3423.9305352972997
     },
@@ -1614,8 +1614,8 @@
         "cpu": "Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz",
         "rank": 180,
         "percent": 13.96,
-        "benchmarks": 40,
-        "average": 11413.9016292,
+        "benchmarks": 41,
+        "average": 11470.3330458,
         "high": 14479.95250575578,
         "low": 3994.200420988725
     },
@@ -1956,8 +1956,8 @@
         "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
         "rank": 218,
         "percent": 11.60,
-        "benchmarks": 1465,
-        "average": 7563.9295809,
+        "benchmarks": 1466,
+        "average": 7564.3555032,
         "high": 12032.535977282572,
         "low": 596.9586152470395
     },
@@ -2919,8 +2919,8 @@
         "cpu": "AMD Ryzen 5 3600 6-Core Processor",
         "rank": 325,
         "percent": 8.53,
-        "benchmarks": 1706,
-        "average": 5936.5370002,
+        "benchmarks": 1707,
+        "average": 5936.9290730,
         "high": 8842.827582547794,
         "low": 811.0635557512921
     },
@@ -4800,8 +4800,8 @@
         "cpu": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
         "rank": 534,
         "percent": 4.08,
-        "benchmarks": 29,
-        "average": 2490.2943560,
+        "benchmarks": 31,
+        "average": 2540.2128939,
         "high": 4229.510138135801,
         "low": 898.8578213663897
     },
@@ -6546,8 +6546,8 @@
         "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
         "rank": 728,
         "percent": 2.51,
-        "benchmarks": 91,
-        "average": 1765.6178269,
+        "benchmarks": 92,
+        "average": 1761.9845732,
         "high": 2600.415026238188,
         "low": 281.346581006011
     },
@@ -8112,8 +8112,8 @@
         "cpu": "Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz",
         "rank": 902,
         "percent": 1.76,
-        "benchmarks": 29,
-        "average": 1278.1855786,
+        "benchmarks": 30,
+        "average": 1257.9959816,
         "high": 1823.4037148933244,
         "low": 433.4624328945971
     },
@@ -9057,10 +9057,10 @@
         "cpu": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
         "rank": 1007,
         "percent": 1.42,
-        "benchmarks": 6,
-        "average": 1142.3604659,
+        "benchmarks": 7,
+        "average": 1063.5857732,
         "high": 1476.0975523350387,
-        "low": 709.7750935661016
+        "low": 590.9376170795155
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
@@ -10641,8 +10641,8 @@
         "cpu": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
         "rank": 1183,
         "percent": 0.82,
-        "benchmarks": 7,
-        "average": 620.8509695,
+        "benchmarks": 8,
+        "average": 612.6588861,
         "high": 847.1309791563423,
         "low": 477.2722933888242
     },

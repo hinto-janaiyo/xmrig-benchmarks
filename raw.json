@@ -35,8 +35,8 @@
     "cpu": "AMD EPYC 7742 64-Core Processor",
     "hashrate": 98162.39987435214,
     "hashrate_1t": 503.96723003483424,
-    "count": 77,
-    "size": 415000000,
+    "count": 80,
+    "size": 427000000,
     "threads": 256
   },
   {
@@ -347,8 +347,8 @@
     "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
     "hashrate": 42365.70072869005,
     "hashrate_1t": 702.7209354621093,
-    "count": 237,
-    "size": 615000000,
+    "count": 238,
+    "size": 616000000,
     "threads": 64
   },
   {
@@ -1435,8 +1435,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz",
     "hashrate": 14479.95250575578,
     "hashrate_1t": 475.06118788099906,
-    "count": 40,
-    "size": 157000000,
+    "count": 41,
+    "size": 158000000,
     "threads": 32
   },
   {
@@ -1739,8 +1739,8 @@
     "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
     "hashrate": 12032.535977282572,
     "hashrate_1t": 919.611261927358,
-    "count": 1463,
-    "size": 2666000000,
+    "count": 1464,
+    "size": 2667000000,
     "threads": 16
   },
   {
@@ -2595,8 +2595,8 @@
     "cpu": "AMD Ryzen 5 3600 6-Core Processor",
     "hashrate": 8842.827582547794,
     "hashrate_1t": 1003.5042367948876,
-    "count": 1704,
-    "size": 3150000000,
+    "count": 1705,
+    "size": 3151000000,
     "threads": 12
   },
   {
@@ -4275,8 +4275,8 @@
     "cpu": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
     "hashrate": 4229.510138135801,
     "hashrate_1t": 704.9183563559668,
-    "count": 29,
-    "size": 47000000,
+    "count": 31,
+    "size": 49000000,
     "threads": 6
   },
   {
@@ -5859,8 +5859,8 @@
     "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
     "hashrate": 2600.415026238188,
     "hashrate_1t": 650.1037565595469,
-    "count": 91,
-    "size": 253000000,
+    "count": 92,
+    "size": 254000000,
     "threads": 16
   },
   {
@@ -7275,8 +7275,8 @@
     "cpu": "Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz",
     "hashrate": 1823.4037148933244,
     "hashrate_1t": 579.6162974887602,
-    "count": 29,
-    "size": 56000000,
+    "count": 30,
+    "size": 57000000,
     "threads": 4
   },
   {
@@ -8123,8 +8123,8 @@
     "cpu": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
     "hashrate": 1476.0975523350387,
     "hashrate_1t": 738.0487761675193,
-    "count": 6,
-    "size": 15000000,
+    "count": 7,
+    "size": 16000000,
     "threads": 2
   },
   {
@@ -9555,8 +9555,8 @@
     "cpu": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
     "hashrate": 847.1309791563423,
     "hashrate_1t": 423.56548957817114,
-    "count": 7,
-    "size": 7000000,
+    "count": 8,
+    "size": 8000000,
     "threads": 2
   },
   {
