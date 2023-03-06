@@ -57,8 +57,8 @@
         "cpu": "AMD Eng Sample: ZS1406E2VJUG5_22/14_N",
         "rank": 7,
         "percent": 89.94,
-        "benchmarks": 218,
-        "average": 46348.5217404,
+        "benchmarks": 219,
+        "average": 46462.8795178,
         "high": 93274.88107452664,
         "low": 6853.070175438596
     },
@@ -198,8 +198,17 @@
         "low": 1773.316900596721
     },
     {
-        "cpu": "AMD EPYC 7532 32-Core Processor",
+        "cpu": "Genuine Intel(R) CPU 0000%@",
         "rank": 23,
+        "percent": 57.69,
+        "benchmarks": 10,
+        "average": 24582.9820875,
+        "high": 59828.29279966497,
+        "low": 3806.4641373981294
+    },
+    {
+        "cpu": "AMD EPYC 7532 32-Core Processor",
+        "rank": 24,
         "percent": 56.60,
         "benchmarks": 104,
         "average": 42018.3224230,
@@ -208,7 +217,7 @@
     },
     {
         "cpu": "AMD Eng Sample: 100-000000054-04_32/24_N",
-        "rank": 24,
+        "rank": 25,
         "percent": 55.75,
         "benchmarks": 36,
         "average": 28812.5115435,
@@ -217,7 +226,7 @@
     },
     {
         "cpu": "AMD Eng Sample: 100-000000056-04_33/22_N",
-        "rank": 25,
+        "rank": 26,
         "percent": 52.78,
         "benchmarks": 6,
         "average": 53263.6833600,
@@ -226,7 +235,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Platinum 8153 CPU @ 2.00GHz",
-        "rank": 26,
+        "rank": 27,
         "percent": 52.62,
         "benchmarks": 2,
         "average": 34924.8991889,
@@ -235,7 +244,7 @@
     },
     {
         "cpu": "AMD Ryzen Threadripper PRO 3995WX 64-Cores",
-        "rank": 27,
+        "rank": 28,
         "percent": 52.32,
         "benchmarks": 43,
         "average": 36922.1369221,
@@ -244,7 +253,7 @@
     },
     {
         "cpu": "AMD EPYC 7542 32-Core Processor",
-        "rank": 28,
+        "rank": 29,
         "percent": 52.05,
         "benchmarks": 6,
         "average": 31795.8432221,
@@ -253,7 +262,7 @@
     },
     {
         "cpu": "AMD EPYC 7452 32-Core Processor",
-        "rank": 29,
+        "rank": 30,
         "percent": 51.84,
         "benchmarks": 73,
         "average": 31206.4655623,
@@ -262,7 +271,7 @@
     },
     {
         "cpu": "AMD Eng Sample: ZS1711E3VIVG5_24/17_N",
-        "rank": 30,
+        "rank": 31,
         "percent": 51.80,
         "benchmarks": 80,
         "average": 29624.8671471,
@@ -271,7 +280,7 @@
     },
     {
         "cpu": "AMD Ryzen Threadripper PRO 5995WX 64-Cores",
-        "rank": 31,
+        "rank": 32,
         "percent": 50.79,
         "benchmarks": 28,
         "average": 22795.6676144,
@@ -280,7 +289,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Platinum 8176 CPU @ 2.10GHz",
-        "rank": 32,
+        "rank": 33,
         "percent": 48.54,
         "benchmarks": 4,
         "average": 28536.0332050,
@@ -289,7 +298,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Platinum 8268 CPU @ 2.90GHz",
-        "rank": 33,
+        "rank": 34,
         "percent": 45.14,
         "benchmarks": 1,
         "average": 46814.2877206,
@@ -298,7 +307,7 @@
     },
     {
         "cpu": "AMD Eng Sample: 100-000000053-05_32/20_Y",
-        "rank": 34,
+        "rank": 35,
         "percent": 44.81,
         "benchmarks": 4,
         "average": 41972.9629588,
@@ -307,7 +316,7 @@
     },
     {
         "cpu": "AMD EPYC 7402 24-Core Processor",
-        "rank": 35,
+        "rank": 36,
         "percent": 43.78,
         "benchmarks": 83,
         "average": 37311.4101067,
@@ -316,7 +325,7 @@
     },
     {
         "cpu": "AMD EPYC 7V13 64-Core Processor",
-        "rank": 36,
+        "rank": 37,
         "percent": 43.15,
         "benchmarks": 7,
         "average": 36164.8816780,
@@ -325,7 +334,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Gold 6438N",
-        "rank": 37,
+        "rank": 38,
         "percent": 41.96,
         "benchmarks": 2,
         "average": 43410.1930222,
@@ -334,21 +343,12 @@
     },
     {
         "cpu": "AMD EPYC 7F72 24-Core Processor",
-        "rank": 38,
+        "rank": 39,
         "percent": 41.90,
         "benchmarks": 2,
         "average": 43325.1447875,
         "high": 43457.47685889357,
         "low": 43192.812715964064
-    },
-    {
-        "cpu": "Genuine Intel(R) CPU 0000%@",
-        "rank": 39,
-        "percent": 41.53,
-        "benchmarks": 9,
-        "average": 20666.8364529,
-        "high": 43068.547900838974,
-        "low": 3806.4641373981294
     },
     {
         "cpu": "AMD EPYC 7543 32-Core Processor",
@@ -858,8 +858,8 @@
         "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
         "rank": 96,
         "percent": 22.54,
-        "benchmarks": 4037,
-        "average": 15359.1862417,
+        "benchmarks": 4038,
+        "average": 15358.9990840,
         "high": 23370.49241627521,
         "low": 205.9109624525478
     },
@@ -1065,8 +1065,8 @@
         "cpu": "AMD EPYC 7551P 32-Core Processor",
         "rank": 119,
         "percent": 18.94,
-        "benchmarks": 39,
-        "average": 15447.5362603,
+        "benchmarks": 40,
+        "average": 15082.1039226,
         "high": 19645.207551617783,
         "low": 735.380633015649
     },
@@ -1965,8 +1965,8 @@
         "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
         "rank": 219,
         "percent": 11.37,
-        "benchmarks": 68,
-        "average": 6527.4982443,
+        "benchmarks": 70,
+        "average": 6633.1309303,
         "high": 11795.791261677832,
         "low": 571.3126765713241
     },
@@ -2208,8 +2208,8 @@
         "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
         "rank": 246,
         "percent": 10.37,
-        "benchmarks": 71,
-        "average": 6924.0765820,
+        "benchmarks": 72,
+        "average": 6907.2967948,
         "high": 10751.693929378574,
         "low": 2998.398255651831
     },
@@ -2235,8 +2235,8 @@
         "cpu": "Genuine Intel(R) CPU 0000 @ 2.00GHz",
         "rank": 249,
         "percent": 10.25,
-        "benchmarks": 14,
-        "average": 5310.8983058,
+        "benchmarks": 16,
+        "average": 5503.4664160,
         "high": 10625.750443625082,
         "low": 900.4393243463486
     },
@@ -2811,8 +2811,8 @@
         "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
         "rank": 313,
         "percent": 8.77,
-        "benchmarks": 834,
-        "average": 6535.5734371,
+        "benchmarks": 835,
+        "average": 6533.1579706,
         "high": 9099.843482692098,
         "low": 781.8486028365468
     },
@@ -2973,8 +2973,8 @@
         "cpu": "AMD Ryzen 5 5600 6-Core Processor",
         "rank": 331,
         "percent": 8.05,
-        "benchmarks": 39,
-        "average": 6820.0550746,
+        "benchmarks": 40,
+        "average": 6822.6898866,
         "high": 8347.384764353328,
         "low": 4504.930646592696
     },
@@ -3945,8 +3945,8 @@
         "cpu": "Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz",
         "rank": 439,
         "percent": 5.51,
-        "benchmarks": 13,
-        "average": 5126.8735030,
+        "benchmarks": 14,
+        "average": 5086.5612322,
         "high": 5714.906189814895,
         "low": 1902.938708247146
     },
@@ -4431,8 +4431,8 @@
         "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
         "rank": 493,
         "percent": 4.59,
-        "benchmarks": 36,
-        "average": 2954.7272809,
+        "benchmarks": 38,
+        "average": 3039.9748053,
         "high": 4754.976082470305,
         "low": 343.6093134617195
     },
@@ -5094,8 +5094,17 @@
         "low": 2084.0844721118237
     },
     {
-        "cpu": "Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz",
+        "cpu": "AMD Ryzen 5 5625U with Radeon Graphics",
         "rank": 567,
+        "percent": 3.71,
+        "benchmarks": 3,
+        "average": 2480.4186061,
+        "high": 3848.477734632066,
+        "low": 1466.606829108039
+    },
+    {
+        "cpu": "Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz",
+        "rank": 568,
         "percent": 3.68,
         "benchmarks": 13,
         "average": 2719.4284938,
@@ -5104,7 +5113,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-11260H @ 2.60GHz",
-        "rank": 568,
+        "rank": 569,
         "percent": 3.68,
         "benchmarks": 2,
         "average": 3206.4729287,
@@ -5113,7 +5122,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10600 CPU @ 3.30GHz",
-        "rank": 569,
+        "rank": 570,
         "percent": 3.67,
         "benchmarks": 7,
         "average": 2642.2413354,
@@ -5122,7 +5131,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2420 0 @ 1.90GHz",
-        "rank": 570,
+        "rank": 571,
         "percent": 3.65,
         "benchmarks": 19,
         "average": 2122.8816289,
@@ -5131,7 +5140,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i7-12650H",
-        "rank": 571,
+        "rank": 572,
         "percent": 3.64,
         "benchmarks": 1,
         "average": 3774.2258119,
@@ -5140,7 +5149,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz",
-        "rank": 572,
+        "rank": 573,
         "percent": 3.64,
         "benchmarks": 7,
         "average": 2921.1811150,
@@ -5149,7 +5158,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2643 0 @ 3.30GHz",
-        "rank": 573,
+        "rank": 574,
         "percent": 3.62,
         "benchmarks": 8,
         "average": 1639.1322272,
@@ -5158,7 +5167,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU D-1587 @ 1.70GHz",
-        "rank": 574,
+        "rank": 575,
         "percent": 3.61,
         "benchmarks": 1,
         "average": 3744.8274571,
@@ -5167,7 +5176,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz",
-        "rank": 575,
+        "rank": 576,
         "percent": 3.61,
         "benchmarks": 9,
         "average": 2791.5063876,
@@ -5176,7 +5185,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz",
-        "rank": 576,
+        "rank": 577,
         "percent": 3.58,
         "benchmarks": 17,
         "average": 2812.2564852,
@@ -5185,7 +5194,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
-        "rank": 577,
+        "rank": 578,
         "percent": 3.58,
         "benchmarks": 87,
         "average": 2420.4223633,
@@ -5194,7 +5203,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
-        "rank": 578,
+        "rank": 579,
         "percent": 3.58,
         "benchmarks": 4,
         "average": 3139.3165558,
@@ -5203,7 +5212,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1660 v2 @ 3.70GHz",
-        "rank": 579,
+        "rank": 580,
         "percent": 3.56,
         "benchmarks": 8,
         "average": 797.5761559,
@@ -5212,7 +5221,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Silver 4109T CPU @ 2.00GHz",
-        "rank": 580,
+        "rank": 581,
         "percent": 3.55,
         "benchmarks": 2,
         "average": 3599.9247664,
@@ -5221,7 +5230,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz",
-        "rank": 581,
+        "rank": 582,
         "percent": 3.53,
         "benchmarks": 68,
         "average": 2133.0767654,
@@ -5230,7 +5239,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 PRO 5650GE with Radeon Graphics",
-        "rank": 582,
+        "rank": 583,
         "percent": 3.51,
         "benchmarks": 2,
         "average": 2589.8550617,
@@ -5239,7 +5248,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-11500T @ 1.50GHz",
-        "rank": 583,
+        "rank": 584,
         "percent": 3.49,
         "benchmarks": 2,
         "average": 3105.2182824,
@@ -5248,7 +5257,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz",
-        "rank": 584,
+        "rank": 585,
         "percent": 3.49,
         "benchmarks": 8,
         "average": 2421.7280614,
@@ -5257,7 +5266,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz",
-        "rank": 585,
+        "rank": 586,
         "percent": 3.48,
         "benchmarks": 16,
         "average": 2383.3292771,
@@ -5266,7 +5275,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5680 @ 3.33GHz",
-        "rank": 586,
+        "rank": 587,
         "percent": 3.47,
         "benchmarks": 14,
         "average": 2484.8684033,
@@ -5275,7 +5284,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5670 @ 2.93GHz",
-        "rank": 587,
+        "rank": 588,
         "percent": 3.43,
         "benchmarks": 26,
         "average": 2672.6522862,
@@ -5284,7 +5293,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz",
-        "rank": 588,
+        "rank": 589,
         "percent": 3.42,
         "benchmarks": 17,
         "average": 2227.8533884,
@@ -5293,7 +5302,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i7-1280P",
-        "rank": 589,
+        "rank": 590,
         "percent": 3.42,
         "benchmarks": 2,
         "average": 2858.7410733,
@@ -5302,7 +5311,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
-        "rank": 590,
+        "rank": 591,
         "percent": 3.41,
         "benchmarks": 147,
         "average": 2223.9559838,
@@ -5311,7 +5320,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2440 0 @ 2.40GHz",
-        "rank": 591,
+        "rank": 592,
         "percent": 3.41,
         "benchmarks": 10,
         "average": 1558.4577989,
@@ -5320,7 +5329,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
-        "rank": 592,
+        "rank": 593,
         "percent": 3.41,
         "benchmarks": 34,
         "average": 2123.2899617,
@@ -5329,7 +5338,7 @@
     },
     {
         "cpu": "Apple M1 Max",
-        "rank": 593,
+        "rank": 594,
         "percent": 3.40,
         "benchmarks": 15,
         "average": 3433.6648796,
@@ -5338,7 +5347,7 @@
     },
     {
         "cpu": "Apple M1 Pro",
-        "rank": 594,
+        "rank": 595,
         "percent": 3.39,
         "benchmarks": 13,
         "average": 2788.6730460,
@@ -5347,7 +5356,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5690 @ 3.47GHz",
-        "rank": 595,
+        "rank": 596,
         "percent": 3.38,
         "benchmarks": 15,
         "average": 2563.0322280,
@@ -5356,7 +5365,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5675 @ 3.07GHz",
-        "rank": 596,
+        "rank": 597,
         "percent": 3.38,
         "benchmarks": 36,
         "average": 2325.0137798,
@@ -5365,7 +5374,7 @@
     },
     {
         "cpu": "AMD 4700S 8-Core Processor Desktop Kit",
-        "rank": 597,
+        "rank": 598,
         "percent": 3.37,
         "benchmarks": 7,
         "average": 2954.6410147,
@@ -5374,7 +5383,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
-        "rank": 598,
+        "rank": 599,
         "percent": 3.37,
         "benchmarks": 8,
         "average": 2271.8025180,
@@ -5383,7 +5392,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2603 v3 @ 1.60GHz",
-        "rank": 599,
+        "rank": 600,
         "percent": 3.37,
         "benchmarks": 7,
         "average": 2341.9614885,
@@ -5392,7 +5401,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 PRO 4750G with Radeon Graphics",
-        "rank": 600,
+        "rank": 601,
         "percent": 3.36,
         "benchmarks": 22,
         "average": 2434.5899734,
@@ -5401,7 +5410,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5660 @ 2.80GHz",
-        "rank": 601,
+        "rank": 602,
         "percent": 3.34,
         "benchmarks": 21,
         "average": 2475.5001972,
@@ -5410,7 +5419,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz",
-        "rank": 602,
+        "rank": 603,
         "percent": 3.33,
         "benchmarks": 9,
         "average": 2432.8078985,
@@ -5419,7 +5428,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5650 @ 2.67GHz",
-        "rank": 603,
+        "rank": 604,
         "percent": 3.31,
         "benchmarks": 69,
         "average": 2366.6502353,
@@ -5428,7 +5437,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz",
-        "rank": 604,
+        "rank": 605,
         "percent": 3.31,
         "benchmarks": 5,
         "average": 2903.4382627,
@@ -5437,7 +5446,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-11700B @ 3.20GHz",
-        "rank": 605,
+        "rank": 606,
         "percent": 3.31,
         "benchmarks": 2,
         "average": 3261.9670005,
@@ -5446,7 +5455,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-8350K CPU @ 4.00GHz",
-        "rank": 606,
+        "rank": 607,
         "percent": 3.30,
         "benchmarks": 11,
         "average": 2549.1933885,
@@ -5455,7 +5464,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E7540 @ 2.00GHz",
-        "rank": 607,
+        "rank": 608,
         "percent": 3.29,
         "benchmarks": 1,
         "average": 3415.5221821,
@@ -5464,7 +5473,7 @@
     },
     {
         "cpu": "AMD Opteron(tm) Processor 4386",
-        "rank": 608,
+        "rank": 609,
         "percent": 3.29,
         "benchmarks": 4,
         "average": 2841.0896119,
@@ -5473,7 +5482,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz",
-        "rank": 609,
+        "rank": 610,
         "percent": 3.28,
         "benchmarks": 9,
         "average": 2387.9940766,
@@ -5482,7 +5491,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5687 @ 3.60GHz",
-        "rank": 610,
+        "rank": 611,
         "percent": 3.28,
         "benchmarks": 3,
         "average": 3307.7410817,
@@ -5491,7 +5500,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 4500 6-Core Processor",
-        "rank": 611,
+        "rank": 612,
         "percent": 3.28,
         "benchmarks": 4,
         "average": 2506.7920689,
@@ -5500,7 +5509,7 @@
     },
     {
         "cpu": "AMD Processor: 100-000000466",
-        "rank": 612,
+        "rank": 613,
         "percent": 3.27,
         "benchmarks": 1,
         "average": 3389.9454219,
@@ -5509,7 +5518,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 PRO 4650G with Radeon Graphics",
-        "rank": 613,
+        "rank": 614,
         "percent": 3.26,
         "benchmarks": 32,
         "average": 2544.0604729,
@@ -5518,7 +5527,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2420 v2 @ 2.20GHz",
-        "rank": 614,
+        "rank": 615,
         "percent": 3.25,
         "benchmarks": 7,
         "average": 2163.0145819,
@@ -5527,7 +5536,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
-        "rank": 615,
+        "rank": 616,
         "percent": 3.24,
         "benchmarks": 195,
         "average": 1907.4665053,
@@ -5536,7 +5545,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 1500X Quad-Core Processor",
-        "rank": 616,
+        "rank": 617,
         "percent": 3.22,
         "benchmarks": 12,
         "average": 2175.7771773,
@@ -5545,7 +5554,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-9700T CPU @ 2.00GHz",
-        "rank": 617,
+        "rank": 618,
         "percent": 3.22,
         "benchmarks": 8,
         "average": 2444.8293196,
@@ -5554,7 +5563,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-10700T CPU @ 2.00GHz",
-        "rank": 618,
+        "rank": 619,
         "percent": 3.20,
         "benchmarks": 2,
         "average": 2699.7998016,
@@ -5563,7 +5572,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
-        "rank": 619,
+        "rank": 620,
         "percent": 3.18,
         "benchmarks": 17,
         "average": 2002.3349186,
@@ -5572,7 +5581,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz",
-        "rank": 620,
+        "rank": 621,
         "percent": 3.16,
         "benchmarks": 12,
         "average": 2317.6279827,
@@ -5581,7 +5590,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
-        "rank": 621,
+        "rank": 622,
         "percent": 3.15,
         "benchmarks": 31,
         "average": 1884.0228061,
@@ -5590,7 +5599,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3960X CPU @ 3.30GHz",
-        "rank": 622,
+        "rank": 623,
         "percent": 3.14,
         "benchmarks": 8,
         "average": 2971.2343989,
@@ -5599,7 +5608,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) W-10885M CPU @ 2.40GHz",
-        "rank": 623,
+        "rank": 624,
         "percent": 3.13,
         "benchmarks": 2,
         "average": 2133.5317372,
@@ -5608,7 +5617,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X7560 @ 2.27GHz",
-        "rank": 624,
+        "rank": 625,
         "percent": 3.12,
         "benchmarks": 1,
         "average": 3236.8325651,
@@ -5617,7 +5626,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 4800H with Radeon Graphics",
-        "rank": 625,
+        "rank": 626,
         "percent": 3.10,
         "benchmarks": 101,
         "average": 1946.3864941,
@@ -5626,7 +5635,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
-        "rank": 626,
+        "rank": 627,
         "percent": 3.09,
         "benchmarks": 133,
         "average": 2215.4988205,
@@ -5635,7 +5644,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz",
-        "rank": 627,
+        "rank": 628,
         "percent": 3.06,
         "benchmarks": 2,
         "average": 2016.1573816,
@@ -5644,7 +5653,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10300 CPU @ 3.70GHz",
-        "rank": 628,
+        "rank": 629,
         "percent": 3.04,
         "benchmarks": 13,
         "average": 2736.2578403,
@@ -5653,7 +5662,7 @@
     },
     {
         "cpu": "Genuine Intel(R) CPU @ 2.60GHz",
-        "rank": 629,
+        "rank": 630,
         "percent": 3.04,
         "benchmarks": 3,
         "average": 2203.7480848,
@@ -5662,7 +5671,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4960HQ CPU @ 2.60GHz",
-        "rank": 630,
+        "rank": 631,
         "percent": 3.04,
         "benchmarks": 10,
         "average": 2344.0183585,
@@ -5671,7 +5680,7 @@
     },
     {
         "cpu": "AMD EPYC Processor (with IBPB)",
-        "rank": 631,
+        "rank": 632,
         "percent": 3.04,
         "benchmarks": 5,
         "average": 1760.3703860,
@@ -5680,7 +5689,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2609 v2 @ 2.50GHz",
-        "rank": 632,
+        "rank": 633,
         "percent": 3.03,
         "benchmarks": 6,
         "average": 1825.0684823,
@@ -5689,7 +5698,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
-        "rank": 633,
+        "rank": 634,
         "percent": 3.02,
         "benchmarks": 78,
         "average": 1922.1231006,
@@ -5698,7 +5707,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
-        "rank": 634,
+        "rank": 635,
         "percent": 3.01,
         "benchmarks": 98,
         "average": 1936.5391485,
@@ -5707,7 +5716,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2274G CPU @ 4.00GHz",
-        "rank": 635,
+        "rank": 636,
         "percent": 2.99,
         "benchmarks": 8,
         "average": 2617.8507668,
@@ -5716,7 +5725,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
-        "rank": 636,
+        "rank": 637,
         "percent": 2.98,
         "benchmarks": 4,
         "average": 2510.2927639,
@@ -5725,16 +5734,16 @@
     },
     {
         "cpu": "AMD Ryzen 5 4600H with Radeon Graphics",
-        "rank": 637,
+        "rank": 638,
         "percent": 2.98,
-        "benchmarks": 45,
-        "average": 1960.5355209,
+        "benchmarks": 46,
+        "average": 1947.1717627,
         "high": 3086.2863950323135,
         "low": 727.8624281781749
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
-        "rank": 638,
+        "rank": 639,
         "percent": 2.94,
         "benchmarks": 109,
         "average": 1787.7520680,
@@ -5743,7 +5752,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz",
-        "rank": 639,
+        "rank": 640,
         "percent": 2.94,
         "benchmarks": 9,
         "average": 2532.7891027,
@@ -5752,7 +5761,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
-        "rank": 640,
+        "rank": 641,
         "percent": 2.93,
         "benchmarks": 115,
         "average": 1772.3305078,
@@ -5761,7 +5770,7 @@
     },
     {
         "cpu": "Genuine Intel(R) CPU 0000 @ 2.70GHz",
-        "rank": 641,
+        "rank": 642,
         "percent": 2.93,
         "benchmarks": 4,
         "average": 2296.5870537,
@@ -5770,7 +5779,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Gold 5117 CPU @ 2.00GHz",
-        "rank": 642,
+        "rank": 643,
         "percent": 2.93,
         "benchmarks": 1,
         "average": 3036.1453099,
@@ -5779,7 +5788,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3970X CPU @ 3.50GHz",
-        "rank": 643,
+        "rank": 644,
         "percent": 2.92,
         "benchmarks": 2,
         "average": 2884.0414199,
@@ -5788,7 +5797,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 PRO 5350G with Radeon Graphics",
-        "rank": 644,
+        "rank": 645,
         "percent": 2.91,
         "benchmarks": 1,
         "average": 3018.1025793,
@@ -5797,7 +5806,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
-        "rank": 645,
+        "rank": 646,
         "percent": 2.90,
         "benchmarks": 43,
         "average": 1985.2923114,
@@ -5806,7 +5815,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 1200 Quad-Core Processor",
-        "rank": 646,
+        "rank": 647,
         "percent": 2.90,
         "benchmarks": 36,
         "average": 1791.3902091,
@@ -5815,7 +5824,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz",
-        "rank": 647,
+        "rank": 648,
         "percent": 2.90,
         "benchmarks": 1,
         "average": 3006.2710815,
@@ -5824,7 +5833,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-11700T @ 1.40GHz",
-        "rank": 648,
+        "rank": 649,
         "percent": 2.89,
         "benchmarks": 7,
         "average": 2730.1350157,
@@ -5833,7 +5842,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2134 CPU @ 3.50GHz",
-        "rank": 649,
+        "rank": 650,
         "percent": 2.88,
         "benchmarks": 32,
         "average": 2403.8153484,
@@ -5842,7 +5851,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 4600G with Radeon Graphics",
-        "rank": 650,
+        "rank": 651,
         "percent": 2.88,
         "benchmarks": 8,
         "average": 1765.8216464,
@@ -5851,7 +5860,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
-        "rank": 651,
+        "rank": 652,
         "percent": 2.88,
         "benchmarks": 58,
         "average": 1651.7129169,
@@ -5860,7 +5869,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2286M CPU @ 2.40GHz",
-        "rank": 652,
+        "rank": 653,
         "percent": 2.87,
         "benchmarks": 1,
         "average": 2977.6083849,
@@ -5869,7 +5878,7 @@
     },
     {
         "cpu": "AMD FX-8370 Eight-Core Processor",
-        "rank": 653,
+        "rank": 654,
         "percent": 2.87,
         "benchmarks": 7,
         "average": 2338.9844577,
@@ -5878,7 +5887,7 @@
     },
     {
         "cpu": "AMD Ryzen 9 4900H with Radeon Graphics",
-        "rank": 654,
+        "rank": 655,
         "percent": 2.86,
         "benchmarks": 1,
         "average": 2971.0795120,
@@ -5887,7 +5896,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i9-10900T CPU @ 1.90GHz",
-        "rank": 655,
+        "rank": 656,
         "percent": 2.86,
         "benchmarks": 2,
         "average": 2610.2242655,
@@ -5896,7 +5905,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1660 0 @ 3.30GHz",
-        "rank": 656,
+        "rank": 657,
         "percent": 2.85,
         "benchmarks": 9,
         "average": 2580.5939102,
@@ -5905,7 +5914,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
-        "rank": 657,
+        "rank": 658,
         "percent": 2.84,
         "benchmarks": 12,
         "average": 2169.6116133,
@@ -5914,7 +5923,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz",
-        "rank": 658,
+        "rank": 659,
         "percent": 2.83,
         "benchmarks": 25,
         "average": 1815.3651887,
@@ -5923,7 +5932,7 @@
     },
     {
         "cpu": "AMD Opteron(tm) Processor 6128",
-        "rank": 659,
+        "rank": 660,
         "percent": 2.82,
         "benchmarks": 1,
         "average": 2929.2355281,
@@ -5932,7 +5941,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
-        "rank": 660,
+        "rank": 661,
         "percent": 2.82,
         "benchmarks": 44,
         "average": 1312.5593467,
@@ -5941,7 +5950,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2224 CPU @ 3.40GHz",
-        "rank": 661,
+        "rank": 662,
         "percent": 2.82,
         "benchmarks": 10,
         "average": 2121.9245369,
@@ -5950,7 +5959,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
-        "rank": 662,
+        "rank": 663,
         "percent": 2.81,
         "benchmarks": 122,
         "average": 1662.1020221,
@@ -5959,7 +5968,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 PRO 4700G with Radeon Graphics",
-        "rank": 663,
+        "rank": 664,
         "percent": 2.80,
         "benchmarks": 1,
         "average": 2905.1289471,
@@ -5968,7 +5977,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 4500U with Radeon Graphics",
-        "rank": 664,
+        "rank": 665,
         "percent": 2.80,
         "benchmarks": 35,
         "average": 1817.5803248,
@@ -5977,7 +5986,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz",
-        "rank": 665,
+        "rank": 666,
         "percent": 2.79,
         "benchmarks": 8,
         "average": 1976.6619694,
@@ -5986,7 +5995,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1270 v6 @ 3.80GHz",
-        "rank": 666,
+        "rank": 667,
         "percent": 2.79,
         "benchmarks": 8,
         "average": 2457.1774014,
@@ -5995,7 +6004,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
-        "rank": 667,
+        "rank": 668,
         "percent": 2.79,
         "benchmarks": 3,
         "average": 1582.9564150,
@@ -6004,7 +6013,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5649 @ 2.53GHz",
-        "rank": 668,
+        "rank": 669,
         "percent": 2.79,
         "benchmarks": 13,
         "average": 2201.6764350,
@@ -6013,7 +6022,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7740X CPU @ 4.30GHz",
-        "rank": 669,
+        "rank": 670,
         "percent": 2.79,
         "benchmarks": 2,
         "average": 2144.8997289,
@@ -6022,7 +6031,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 5700U with Radeon Graphics",
-        "rank": 670,
+        "rank": 671,
         "percent": 2.77,
         "benchmarks": 25,
         "average": 1641.1817484,
@@ -6031,7 +6040,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7820HK CPU @ 2.90GHz",
-        "rank": 671,
+        "rank": 672,
         "percent": 2.77,
         "benchmarks": 5,
         "average": 1982.2759648,
@@ -6040,7 +6049,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 4800U with Radeon Graphics",
-        "rank": 672,
+        "rank": 673,
         "percent": 2.77,
         "benchmarks": 9,
         "average": 2040.4358762,
@@ -6049,7 +6058,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
-        "rank": 673,
+        "rank": 674,
         "percent": 2.76,
         "benchmarks": 112,
         "average": 1711.0788886,
@@ -6058,7 +6067,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 PRO 4750U with Radeon Graphics",
-        "rank": 674,
+        "rank": 675,
         "percent": 2.76,
         "benchmarks": 47,
         "average": 2266.0408538,
@@ -6067,7 +6076,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5645 @ 2.40GHz",
-        "rank": 675,
+        "rank": 676,
         "percent": 2.75,
         "benchmarks": 13,
         "average": 1961.0563191,
@@ -6076,7 +6085,7 @@
     },
     {
         "cpu": "AMD FX-8320E Eight-Core Processor",
-        "rank": 676,
+        "rank": 677,
         "percent": 2.75,
         "benchmarks": 28,
         "average": 1807.9323035,
@@ -6085,7 +6094,7 @@
     },
     {
         "cpu": "Genuine Intel(R) CPU 0000 @ 2.80GHz",
-        "rank": 677,
+        "rank": 678,
         "percent": 2.74,
         "benchmarks": 2,
         "average": 2760.7244643,
@@ -6094,7 +6103,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
-        "rank": 678,
+        "rank": 679,
         "percent": 2.74,
         "benchmarks": 50,
         "average": 1867.9711496,
@@ -6103,7 +6112,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1246 v3 @ 3.50GHz",
-        "rank": 679,
+        "rank": 680,
         "percent": 2.73,
         "benchmarks": 8,
         "average": 2358.0365018,
@@ -6112,7 +6121,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 4600U with Radeon Graphics",
-        "rank": 680,
+        "rank": 681,
         "percent": 2.73,
         "benchmarks": 5,
         "average": 1539.6485219,
@@ -6121,7 +6130,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X7460 @ 2.66GHz",
-        "rank": 681,
+        "rank": 682,
         "percent": 2.73,
         "benchmarks": 2,
         "average": 2141.1520365,
@@ -6130,7 +6139,7 @@
     },
     {
         "cpu": "Intel Core Processor (Broadwell)",
-        "rank": 682,
+        "rank": 683,
         "percent": 2.72,
         "benchmarks": 3,
         "average": 1345.9915740,
@@ -6139,7 +6148,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i5-12490F",
-        "rank": 683,
+        "rank": 684,
         "percent": 2.72,
         "benchmarks": 1,
         "average": 2818.1477442,
@@ -6148,7 +6157,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz",
-        "rank": 684,
+        "rank": 685,
         "percent": 2.72,
         "benchmarks": 2,
         "average": 2690.7942631,
@@ -6157,7 +6166,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 4700U with Radeon Graphics",
-        "rank": 685,
+        "rank": 686,
         "percent": 2.72,
         "benchmarks": 41,
         "average": 1889.2650598,
@@ -6166,7 +6175,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
-        "rank": 686,
+        "rank": 687,
         "percent": 2.70,
         "benchmarks": 114,
         "average": 1935.6969736,
@@ -6175,7 +6184,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
-        "rank": 687,
+        "rank": 688,
         "percent": 2.70,
         "benchmarks": 15,
         "average": 1635.7121198,
@@ -6184,7 +6193,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 5500U with Radeon Graphics",
-        "rank": 688,
+        "rank": 689,
         "percent": 2.70,
         "benchmarks": 24,
         "average": 1705.0948570,
@@ -6193,7 +6202,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2224G CPU @ 3.50GHz",
-        "rank": 689,
+        "rank": 690,
         "percent": 2.70,
         "benchmarks": 3,
         "average": 2685.1674376,
@@ -6202,7 +6211,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz",
-        "rank": 690,
+        "rank": 691,
         "percent": 2.70,
         "benchmarks": 16,
         "average": 2041.3116838,
@@ -6211,7 +6220,7 @@
     },
     {
         "cpu": "Apple M2",
-        "rank": 691,
+        "rank": 692,
         "percent": 2.70,
         "benchmarks": 8,
         "average": 2449.4886791,
@@ -6220,7 +6229,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU L5640 @ 2.27GHz",
-        "rank": 692,
+        "rank": 693,
         "percent": 2.70,
         "benchmarks": 25,
         "average": 2131.2884950,
@@ -6229,7 +6238,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1240 v6 @ 3.70GHz",
-        "rank": 693,
+        "rank": 694,
         "percent": 2.69,
         "benchmarks": 4,
         "average": 2604.7243196,
@@ -6238,7 +6247,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz",
-        "rank": 694,
+        "rank": 695,
         "percent": 2.66,
         "benchmarks": 3,
         "average": 1584.3162080,
@@ -6247,7 +6256,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz",
-        "rank": 695,
+        "rank": 696,
         "percent": 2.66,
         "benchmarks": 18,
         "average": 1756.5488971,
@@ -6256,7 +6265,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1280 v6 @ 3.90GHz",
-        "rank": 696,
+        "rank": 697,
         "percent": 2.66,
         "benchmarks": 1,
         "average": 2756.0433140,
@@ -6265,7 +6274,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E7- 2870 @ 2.40GHz",
-        "rank": 697,
+        "rank": 698,
         "percent": 2.65,
         "benchmarks": 2,
         "average": 2746.5748624,
@@ -6274,7 +6283,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2136 CPU @ 3.30GHz",
-        "rank": 698,
+        "rank": 699,
         "percent": 2.65,
         "benchmarks": 4,
         "average": 1827.2669972,
@@ -6283,7 +6292,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
-        "rank": 699,
+        "rank": 700,
         "percent": 2.63,
         "benchmarks": 163,
         "average": 1734.1337661,
@@ -6292,7 +6301,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2628L v2 @ 1.90GHz",
-        "rank": 700,
+        "rank": 701,
         "percent": 2.63,
         "benchmarks": 3,
         "average": 2710.6631778,
@@ -6301,7 +6310,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8600T CPU @ 2.30GHz",
-        "rank": 701,
+        "rank": 702,
         "percent": 2.62,
         "benchmarks": 2,
         "average": 2540.5851296,
@@ -6310,7 +6319,7 @@
     },
     {
         "cpu": "AMD FX(tm)-8350 Eight-Core Processor",
-        "rank": 702,
+        "rank": 703,
         "percent": 2.61,
         "benchmarks": 61,
         "average": 1769.8212519,
@@ -6319,7 +6328,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 PRO 4650U with Radeon Graphics",
-        "rank": 703,
+        "rank": 704,
         "percent": 2.60,
         "benchmarks": 10,
         "average": 1697.0996966,
@@ -6328,7 +6337,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-9750HF CPU @ 2.60GHz",
-        "rank": 704,
+        "rank": 705,
         "percent": 2.60,
         "benchmarks": 2,
         "average": 1814.9198279,
@@ -6337,7 +6346,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-5775C CPU @ 3.30GHz",
-        "rank": 705,
+        "rank": 706,
         "percent": 2.60,
         "benchmarks": 4,
         "average": 2130.4503670,
@@ -6346,7 +6355,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1275 v6 @ 3.80GHz",
-        "rank": 706,
+        "rank": 707,
         "percent": 2.60,
         "benchmarks": 3,
         "average": 2188.6756621,
@@ -6355,7 +6364,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1281 v3 @ 3.70GHz",
-        "rank": 707,
+        "rank": 708,
         "percent": 2.60,
         "benchmarks": 25,
         "average": 2371.8624830,
@@ -6364,7 +6373,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
-        "rank": 708,
+        "rank": 709,
         "percent": 2.59,
         "benchmarks": 52,
         "average": 1367.1384552,
@@ -6373,7 +6382,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5672 @ 3.20GHz",
-        "rank": 709,
+        "rank": 710,
         "percent": 2.59,
         "benchmarks": 5,
         "average": 2349.4362751,
@@ -6382,7 +6391,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-11390H @ 3.40GHz",
-        "rank": 710,
+        "rank": 711,
         "percent": 2.59,
         "benchmarks": 1,
         "average": 2682.6265060,
@@ -6391,7 +6400,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2609 0 @ 2.40GHz",
-        "rank": 711,
+        "rank": 712,
         "percent": 2.57,
         "benchmarks": 6,
         "average": 2041.4305038,
@@ -6400,7 +6409,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1230 v6 @ 3.50GHz",
-        "rank": 712,
+        "rank": 713,
         "percent": 2.57,
         "benchmarks": 3,
         "average": 2656.1370222,
@@ -6409,7 +6418,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 1300X Quad-Core Processor",
-        "rank": 713,
+        "rank": 714,
         "percent": 2.57,
         "benchmarks": 3,
         "average": 2338.2555226,
@@ -6418,7 +6427,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1505M v6 @ 3.00GHz",
-        "rank": 714,
+        "rank": 715,
         "percent": 2.55,
         "benchmarks": 3,
         "average": 2020.1806439,
@@ -6427,7 +6436,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2176M CPU @ 2.70GHz",
-        "rank": 715,
+        "rank": 716,
         "percent": 2.54,
         "benchmarks": 2,
         "average": 2479.8360023,
@@ -6436,7 +6445,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5640 @ 2.67GHz",
-        "rank": 716,
+        "rank": 717,
         "percent": 2.54,
         "benchmarks": 3,
         "average": 2492.5533712,
@@ -6445,7 +6454,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1271 v3 @ 3.60GHz",
-        "rank": 717,
+        "rank": 718,
         "percent": 2.54,
         "benchmarks": 11,
         "average": 2346.6184509,
@@ -6454,7 +6463,7 @@
     },
     {
         "cpu": "Genuine Intel(R) CPU 0000 @ 1.50GHz",
-        "rank": 718,
+        "rank": 719,
         "percent": 2.54,
         "benchmarks": 2,
         "average": 2555.9910778,
@@ -6463,7 +6472,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz",
-        "rank": 719,
+        "rank": 720,
         "percent": 2.53,
         "benchmarks": 54,
         "average": 1717.2560959,
@@ -6472,7 +6481,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1650 0 @ 3.20GHz",
-        "rank": 720,
+        "rank": 721,
         "percent": 2.52,
         "benchmarks": 28,
         "average": 2039.1447839,
@@ -6481,7 +6490,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9600 CPU @ 3.10GHz",
-        "rank": 721,
+        "rank": 722,
         "percent": 2.52,
         "benchmarks": 4,
         "average": 1972.4246252,
@@ -6490,7 +6499,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1270 v5 @ 3.60GHz",
-        "rank": 722,
+        "rank": 723,
         "percent": 2.52,
         "benchmarks": 1,
         "average": 2614.6456763,
@@ -6499,7 +6508,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz",
-        "rank": 723,
+        "rank": 724,
         "percent": 2.52,
         "benchmarks": 2,
         "average": 1931.5531181,
@@ -6508,7 +6517,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i5-1240P",
-        "rank": 724,
+        "rank": 725,
         "percent": 2.52,
         "benchmarks": 3,
         "average": 2162.5595523,
@@ -6517,7 +6526,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) W-2223 CPU @ 3.60GHz",
-        "rank": 725,
+        "rank": 726,
         "percent": 2.51,
         "benchmarks": 3,
         "average": 2029.1908649,
@@ -6526,7 +6535,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz",
-        "rank": 726,
+        "rank": 727,
         "percent": 2.51,
         "benchmarks": 8,
         "average": 1987.3315734,
@@ -6535,7 +6544,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
-        "rank": 727,
+        "rank": 728,
         "percent": 2.51,
         "benchmarks": 39,
         "average": 1413.5560468,
@@ -6544,7 +6553,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
-        "rank": 728,
+        "rank": 729,
         "percent": 2.51,
         "benchmarks": 92,
         "average": 1761.9845732,
@@ -6553,7 +6562,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1245 v5 @ 3.50GHz",
-        "rank": 729,
+        "rank": 730,
         "percent": 2.50,
         "benchmarks": 5,
         "average": 2270.1509055,
@@ -6562,7 +6571,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz",
-        "rank": 730,
+        "rank": 731,
         "percent": 2.50,
         "benchmarks": 14,
         "average": 2219.4036963,
@@ -6571,7 +6580,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1225 v5 @ 3.30GHz",
-        "rank": 731,
+        "rank": 732,
         "percent": 2.50,
         "benchmarks": 7,
         "average": 2154.6679551,
@@ -6580,7 +6589,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) D-2141I CPU @ 2.20GHz",
-        "rank": 732,
+        "rank": 733,
         "percent": 2.49,
         "benchmarks": 1,
         "average": 2582.6379581,
@@ -6589,7 +6598,7 @@
     },
     {
         "cpu": "AMD FX(tm)-9370 Eight-Core Processor",
-        "rank": 733,
+        "rank": 734,
         "percent": 2.49,
         "benchmarks": 2,
         "average": 2549.6598781,
@@ -6598,7 +6607,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i5-1235U",
-        "rank": 734,
+        "rank": 735,
         "percent": 2.49,
         "benchmarks": 11,
         "average": 2136.8615757,
@@ -6607,7 +6616,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9400H CPU @ 2.50GHz",
-        "rank": 735,
+        "rank": 736,
         "percent": 2.49,
         "benchmarks": 1,
         "average": 2578.8881897,
@@ -6616,7 +6625,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz",
-        "rank": 736,
+        "rank": 737,
         "percent": 2.48,
         "benchmarks": 2,
         "average": 2350.2457094,
@@ -6625,7 +6634,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1275 v3 @ 3.50GHz",
-        "rank": 737,
+        "rank": 738,
         "percent": 2.47,
         "benchmarks": 2,
         "average": 2553.0298693,
@@ -6634,7 +6643,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1241 v3 @ 3.50GHz",
-        "rank": 738,
+        "rank": 739,
         "percent": 2.46,
         "benchmarks": 10,
         "average": 2336.9668560,
@@ -6643,7 +6652,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz",
-        "rank": 739,
+        "rank": 740,
         "percent": 2.45,
         "benchmarks": 5,
         "average": 1672.0627023,
@@ -6652,7 +6661,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5630 @ 2.53GHz",
-        "rank": 740,
+        "rank": 741,
         "percent": 2.45,
         "benchmarks": 10,
         "average": 1590.1097274,
@@ -6661,7 +6670,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 2500X Quad-Core Processor",
-        "rank": 741,
+        "rank": 742,
         "percent": 2.44,
         "benchmarks": 1,
         "average": 2533.2488917,
@@ -6670,7 +6679,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5620 @ 2.40GHz",
-        "rank": 742,
+        "rank": 743,
         "percent": 2.44,
         "benchmarks": 53,
         "average": 1760.8709049,
@@ -6679,7 +6688,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1535M v5 @ 2.90GHz",
-        "rank": 743,
+        "rank": 744,
         "percent": 2.44,
         "benchmarks": 1,
         "average": 2525.4183355,
@@ -6688,7 +6697,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz",
-        "rank": 744,
+        "rank": 745,
         "percent": 2.43,
         "benchmarks": 16,
         "average": 2152.9966830,
@@ -6697,7 +6706,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz",
-        "rank": 745,
+        "rank": 746,
         "percent": 2.43,
         "benchmarks": 12,
         "average": 1846.2439570,
@@ -6706,7 +6715,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
-        "rank": 746,
+        "rank": 747,
         "percent": 2.43,
         "benchmarks": 48,
         "average": 1394.4538916,
@@ -6715,7 +6724,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz",
-        "rank": 747,
+        "rank": 748,
         "percent": 2.42,
         "benchmarks": 5,
         "average": 1885.7168275,
@@ -6724,7 +6733,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1240 v3 @ 3.40GHz",
-        "rank": 748,
+        "rank": 749,
         "percent": 2.42,
         "benchmarks": 3,
         "average": 2052.8013866,
@@ -6733,7 +6742,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4940MX CPU @ 3.10GHz",
-        "rank": 749,
+        "rank": 750,
         "percent": 2.40,
         "benchmarks": 4,
         "average": 2110.8999709,
@@ -6742,7 +6751,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
-        "rank": 750,
+        "rank": 751,
         "percent": 2.40,
         "benchmarks": 28,
         "average": 1690.0615225,
@@ -6751,7 +6760,7 @@
     },
     {
         "cpu": "Apple M1",
-        "rank": 751,
+        "rank": 752,
         "percent": 2.39,
         "benchmarks": 78,
         "average": 1968.5922926,
@@ -6760,7 +6769,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz",
-        "rank": 752,
+        "rank": 753,
         "percent": 2.39,
         "benchmarks": 7,
         "average": 1947.8022869,
@@ -6769,7 +6778,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1220 v6 @ 3.00GHz",
-        "rank": 753,
+        "rank": 754,
         "percent": 2.39,
         "benchmarks": 13,
         "average": 1622.7595545,
@@ -6778,7 +6787,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
-        "rank": 754,
+        "rank": 755,
         "percent": 2.39,
         "benchmarks": 23,
         "average": 1728.2227542,
@@ -6787,7 +6796,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz",
-        "rank": 755,
+        "rank": 756,
         "percent": 2.38,
         "benchmarks": 9,
         "average": 1503.5367341,
@@ -6796,7 +6805,7 @@
     },
     {
         "cpu": "AMD Opteron(tm) Processor 6176 SE",
-        "rank": 756,
+        "rank": 757,
         "percent": 2.38,
         "benchmarks": 1,
         "average": 2465.5865754,
@@ -6805,7 +6814,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz",
-        "rank": 757,
+        "rank": 758,
         "percent": 2.37,
         "benchmarks": 37,
         "average": 1109.3962782,
@@ -6814,7 +6823,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 1400 Quad-Core Processor",
-        "rank": 758,
+        "rank": 759,
         "percent": 2.36,
         "benchmarks": 11,
         "average": 1577.8885739,
@@ -6823,7 +6832,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1220 v5 @ 3.00GHz",
-        "rank": 759,
+        "rank": 760,
         "percent": 2.36,
         "benchmarks": 8,
         "average": 2174.6051186,
@@ -6832,7 +6841,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1226 v3 @ 3.30GHz",
-        "rank": 760,
+        "rank": 761,
         "percent": 2.36,
         "benchmarks": 8,
         "average": 2174.2525414,
@@ -6841,7 +6850,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
-        "rank": 761,
+        "rank": 762,
         "percent": 2.36,
         "benchmarks": 4,
         "average": 1335.8810782,
@@ -6850,7 +6859,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz",
-        "rank": 762,
+        "rank": 763,
         "percent": 2.35,
         "benchmarks": 4,
         "average": 2139.9607586,
@@ -6859,7 +6868,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1280 V2 @ 3.60GHz",
-        "rank": 763,
+        "rank": 764,
         "percent": 2.35,
         "benchmarks": 5,
         "average": 2333.8963923,
@@ -6868,7 +6877,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
-        "rank": 764,
+        "rank": 765,
         "percent": 2.34,
         "benchmarks": 38,
         "average": 1621.7273547,
@@ -6877,7 +6886,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz",
-        "rank": 765,
+        "rank": 766,
         "percent": 2.34,
         "benchmarks": 9,
         "average": 1652.6486722,
@@ -6886,7 +6895,7 @@
     },
     {
         "cpu": "AMD FX(tm)-9590 Eight-Core Processor",
-        "rank": 766,
+        "rank": 767,
         "percent": 2.33,
         "benchmarks": 5,
         "average": 2050.5607705,
@@ -6895,7 +6904,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1630 v4 @ 3.70GHz",
-        "rank": 767,
+        "rank": 768,
         "percent": 2.33,
         "benchmarks": 4,
         "average": 1758.9164060,
@@ -6904,7 +6913,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3920XM CPU @ 2.90GHz",
-        "rank": 768,
+        "rank": 769,
         "percent": 2.33,
         "benchmarks": 1,
         "average": 2411.2654321,
@@ -6913,7 +6922,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz",
-        "rank": 769,
+        "rank": 770,
         "percent": 2.32,
         "benchmarks": 11,
         "average": 1681.9646686,
@@ -6922,7 +6931,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 PRO 4650GE with Radeon Graphics",
-        "rank": 770,
+        "rank": 771,
         "percent": 2.31,
         "benchmarks": 1,
         "average": 2394.7048287,
@@ -6931,7 +6940,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1275 V2 @ 3.50GHz",
-        "rank": 771,
+        "rank": 772,
         "percent": 2.31,
         "benchmarks": 8,
         "average": 1892.7776613,
@@ -6940,7 +6949,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
-        "rank": 772,
+        "rank": 773,
         "percent": 2.30,
         "benchmarks": 71,
         "average": 1481.0547081,
@@ -6949,7 +6958,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2276M CPU @ 2.80GHz",
-        "rank": 773,
+        "rank": 774,
         "percent": 2.30,
         "benchmarks": 1,
         "average": 2388.0368904,
@@ -6958,7 +6967,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz",
-        "rank": 774,
+        "rank": 775,
         "percent": 2.30,
         "benchmarks": 7,
         "average": 1746.7118202,
@@ -6967,7 +6976,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz",
-        "rank": 775,
+        "rank": 776,
         "percent": 2.30,
         "benchmarks": 1,
         "average": 2385.6498391,
@@ -6976,7 +6985,7 @@
     },
     {
         "cpu": "Apple processor",
-        "rank": 776,
+        "rank": 777,
         "percent": 2.30,
         "benchmarks": 9,
         "average": 2054.4461145,
@@ -6985,7 +6994,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i9-11900T @ 1.50GHz",
-        "rank": 777,
+        "rank": 778,
         "percent": 2.30,
         "benchmarks": 1,
         "average": 2382.6088614,
@@ -6994,7 +7003,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1245 V2 @ 3.40GHz",
-        "rank": 778,
+        "rank": 779,
         "percent": 2.29,
         "benchmarks": 11,
         "average": 1962.2662734,
@@ -7003,7 +7012,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz",
-        "rank": 779,
+        "rank": 780,
         "percent": 2.29,
         "benchmarks": 34,
         "average": 1808.6414794,
@@ -7012,7 +7021,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1240 V2 @ 3.40GHz",
-        "rank": 780,
+        "rank": 781,
         "percent": 2.28,
         "benchmarks": 17,
         "average": 1892.6541905,
@@ -7021,7 +7030,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2378 CPU @ 2.60GHz",
-        "rank": 781,
+        "rank": 782,
         "percent": 2.28,
         "benchmarks": 1,
         "average": 2366.7686744,
@@ -7030,7 +7039,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
-        "rank": 782,
+        "rank": 783,
         "percent": 2.28,
         "benchmarks": 14,
         "average": 1553.6668076,
@@ -7039,7 +7048,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz",
-        "rank": 783,
+        "rank": 784,
         "percent": 2.28,
         "benchmarks": 2,
         "average": 1679.6349607,
@@ -7048,7 +7057,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i7-1255U",
-        "rank": 784,
+        "rank": 785,
         "percent": 2.26,
         "benchmarks": 4,
         "average": 1676.6967028,
@@ -7057,7 +7066,7 @@
     },
     {
         "cpu": "AMD FX(tm)-8320 Eight-Core Processor",
-        "rank": 785,
+        "rank": 786,
         "percent": 2.26,
         "benchmarks": 28,
         "average": 1536.3167756,
@@ -7066,7 +7075,7 @@
     },
     {
         "cpu": "AMD Opteron(tm) Processor 3380",
-        "rank": 786,
+        "rank": 787,
         "percent": 2.26,
         "benchmarks": 2,
         "average": 2061.1100387,
@@ -7075,7 +7084,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz",
-        "rank": 787,
+        "rank": 788,
         "percent": 2.25,
         "benchmarks": 13,
         "average": 1627.0414455,
@@ -7084,7 +7093,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz",
-        "rank": 788,
+        "rank": 789,
         "percent": 2.25,
         "benchmarks": 25,
         "average": 1509.7042342,
@@ -7093,7 +7102,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1275L v3 @ 2.70GHz",
-        "rank": 789,
+        "rank": 790,
         "percent": 2.25,
         "benchmarks": 1,
         "average": 2333.2213387,
@@ -7102,7 +7111,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz",
-        "rank": 790,
+        "rank": 791,
         "percent": 2.24,
         "benchmarks": 13,
         "average": 1547.8833283,
@@ -7111,7 +7120,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
-        "rank": 791,
+        "rank": 792,
         "percent": 2.24,
         "benchmarks": 46,
         "average": 1322.0517946,
@@ -7120,7 +7129,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1630 v3 @ 3.70GHz",
-        "rank": 792,
+        "rank": 793,
         "percent": 2.23,
         "benchmarks": 3,
         "average": 1676.4208738,
@@ -7129,7 +7138,7 @@
     },
     {
         "cpu": "Genuine Intel(R) CPU 0000 @ 3.50GHz",
-        "rank": 793,
+        "rank": 794,
         "percent": 2.23,
         "benchmarks": 1,
         "average": 2311.3905325,
@@ -7138,7 +7147,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1505M v5 @ 2.80GHz",
-        "rank": 794,
+        "rank": 795,
         "percent": 2.22,
         "benchmarks": 6,
         "average": 1774.2868821,
@@ -7147,7 +7156,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4910MQ CPU @ 2.90GHz",
-        "rank": 795,
+        "rank": 796,
         "percent": 2.22,
         "benchmarks": 6,
         "average": 1623.5763031,
@@ -7156,7 +7165,7 @@
     },
     {
         "cpu": "AMD FX(tm)-6300 Six-Core Processor",
-        "rank": 796,
+        "rank": 797,
         "percent": 2.22,
         "benchmarks": 49,
         "average": 1338.3831368,
@@ -7165,7 +7174,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6920HQ CPU @ 2.90GHz",
-        "rank": 797,
+        "rank": 798,
         "percent": 2.22,
         "benchmarks": 1,
         "average": 2300.2571688,
@@ -7174,7 +7183,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7 CPU X 980 @ 3.33GHz",
-        "rank": 798,
+        "rank": 799,
         "percent": 2.22,
         "benchmarks": 7,
         "average": 1566.4869072,
@@ -7183,7 +7192,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 PRO 4750GE with Radeon Graphics",
-        "rank": 799,
+        "rank": 800,
         "percent": 2.21,
         "benchmarks": 1,
         "average": 2295.7842514,
@@ -7192,7 +7201,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
-        "rank": 800,
+        "rank": 801,
         "percent": 2.21,
         "benchmarks": 23,
         "average": 1490.3806933,
@@ -7201,7 +7210,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz",
-        "rank": 801,
+        "rank": 802,
         "percent": 2.21,
         "benchmarks": 6,
         "average": 2109.9129920,
@@ -7210,7 +7219,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3940XM CPU @ 3.00GHz",
-        "rank": 802,
+        "rank": 803,
         "percent": 2.20,
         "benchmarks": 19,
         "average": 1859.0277986,
@@ -7219,7 +7228,7 @@
     },
     {
         "cpu": "Intel Xeon E312xx (Sandy Bridge)",
-        "rank": 803,
+        "rank": 804,
         "percent": 2.20,
         "benchmarks": 12,
         "average": 785.2586320,
@@ -7228,7 +7237,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) W-2104 CPU @ 3.20GHz",
-        "rank": 804,
+        "rank": 805,
         "percent": 2.19,
         "benchmarks": 1,
         "average": 2273.4196323,
@@ -7237,7 +7246,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
-        "rank": 805,
+        "rank": 806,
         "percent": 2.19,
         "benchmarks": 135,
         "average": 1307.9664053,
@@ -7246,7 +7255,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz",
-        "rank": 806,
+        "rank": 807,
         "percent": 2.19,
         "benchmarks": 1,
         "average": 2269.0864204,
@@ -7255,7 +7264,7 @@
     },
     {
         "cpu": "AMD EPYC 3101 4-Core Processor",
-        "rank": 807,
+        "rank": 808,
         "percent": 2.18,
         "benchmarks": 1,
         "average": 2265.1031415,
@@ -7264,7 +7273,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4900MQ CPU @ 2.80GHz",
-        "rank": 808,
+        "rank": 809,
         "percent": 2.18,
         "benchmarks": 4,
         "average": 2198.5046224,
@@ -7273,7 +7282,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1225 v3 @ 3.20GHz",
-        "rank": 809,
+        "rank": 810,
         "percent": 2.18,
         "benchmarks": 11,
         "average": 1401.8657296,
@@ -7282,7 +7291,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) W-1250 CPU @ 3.30GHz",
-        "rank": 810,
+        "rank": 811,
         "percent": 2.17,
         "benchmarks": 1,
         "average": 2252.6682856,
@@ -7291,7 +7300,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
-        "rank": 811,
+        "rank": 812,
         "percent": 2.17,
         "benchmarks": 40,
         "average": 1479.1565339,
@@ -7300,7 +7309,7 @@
     },
     {
         "cpu": "AMD FX(tm)-8120 Eight-Core Processor",
-        "rank": 812,
+        "rank": 813,
         "percent": 2.17,
         "benchmarks": 9,
         "average": 1450.9891452,
@@ -7309,7 +7318,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8705G CPU @ 3.10GHz",
-        "rank": 813,
+        "rank": 814,
         "percent": 2.17,
         "benchmarks": 5,
         "average": 1688.6550229,
@@ -7318,7 +7327,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz",
-        "rank": 814,
+        "rank": 815,
         "percent": 2.16,
         "benchmarks": 5,
         "average": 1306.7229338,
@@ -7327,7 +7336,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz",
-        "rank": 815,
+        "rank": 816,
         "percent": 2.16,
         "benchmarks": 19,
         "average": 1764.6499053,
@@ -7336,7 +7345,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1220 V2 @ 3.10GHz",
-        "rank": 816,
+        "rank": 817,
         "percent": 2.16,
         "benchmarks": 9,
         "average": 1802.7248008,
@@ -7345,7 +7354,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Bronze 3104 CPU @ 1.70GHz",
-        "rank": 817,
+        "rank": 818,
         "percent": 2.15,
         "benchmarks": 2,
         "average": 2202.6110604,
@@ -7354,7 +7363,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1265L v3 @ 2.50GHz",
-        "rank": 818,
+        "rank": 819,
         "percent": 2.15,
         "benchmarks": 6,
         "average": 1963.3573890,
@@ -7363,7 +7372,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2603 v2 @ 1.80GHz",
-        "rank": 819,
+        "rank": 820,
         "percent": 2.15,
         "benchmarks": 1,
         "average": 2231.0522312,
@@ -7372,7 +7381,7 @@
     },
     {
         "cpu": "AMD FX(tm)-8300 Eight-Core Processor",
-        "rank": 820,
+        "rank": 821,
         "percent": 2.15,
         "benchmarks": 28,
         "average": 1483.0422248,
@@ -7381,7 +7390,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz",
-        "rank": 821,
+        "rank": 822,
         "percent": 2.15,
         "benchmarks": 19,
         "average": 1563.6739535,
@@ -7390,7 +7399,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz",
-        "rank": 822,
+        "rank": 823,
         "percent": 2.14,
         "benchmarks": 21,
         "average": 1366.6641170,
@@ -7399,7 +7408,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz",
-        "rank": 823,
+        "rank": 824,
         "percent": 2.14,
         "benchmarks": 3,
         "average": 1996.4943143,
@@ -7408,7 +7417,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz",
-        "rank": 824,
+        "rank": 825,
         "percent": 2.14,
         "benchmarks": 19,
         "average": 1775.8824695,
@@ -7417,7 +7426,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
-        "rank": 825,
+        "rank": 826,
         "percent": 2.13,
         "benchmarks": 51,
         "average": 1240.5257117,
@@ -7426,7 +7435,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1225 V2 @ 3.20GHz",
-        "rank": 826,
+        "rank": 827,
         "percent": 2.13,
         "benchmarks": 4,
         "average": 1735.5119494,
@@ -7435,7 +7444,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz",
-        "rank": 827,
+        "rank": 828,
         "percent": 2.13,
         "benchmarks": 23,
         "average": 1515.7656306,
@@ -7444,7 +7453,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-9350KF CPU @ 4.00GHz",
-        "rank": 828,
+        "rank": 829,
         "percent": 2.13,
         "benchmarks": 1,
         "average": 2206.7163619,
@@ -7453,7 +7462,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4790T CPU @ 2.70GHz",
-        "rank": 829,
+        "rank": 830,
         "percent": 2.13,
         "benchmarks": 2,
         "average": 2200.9399299,
@@ -7462,7 +7471,7 @@
     },
     {
         "cpu": "DO-Regular",
-        "rank": 830,
+        "rank": 831,
         "percent": 2.12,
         "benchmarks": 2,
         "average": 1278.3837076,
@@ -7471,7 +7480,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2407 0 @ 2.20GHz",
-        "rank": 831,
+        "rank": 832,
         "percent": 2.12,
         "benchmarks": 4,
         "average": 1713.4851409,
@@ -7480,7 +7489,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz",
-        "rank": 832,
+        "rank": 833,
         "percent": 2.11,
         "benchmarks": 43,
         "average": 1168.8954796,
@@ -7489,7 +7498,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
-        "rank": 833,
+        "rank": 834,
         "percent": 2.10,
         "benchmarks": 58,
         "average": 1346.9356971,
@@ -7498,7 +7507,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31270 @ 3.40GHz",
-        "rank": 834,
+        "rank": 835,
         "percent": 2.09,
         "benchmarks": 4,
         "average": 1847.3145716,
@@ -7507,7 +7516,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
-        "rank": 835,
+        "rank": 836,
         "percent": 2.09,
         "benchmarks": 8,
         "average": 1841.8594315,
@@ -7516,7 +7525,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
-        "rank": 836,
+        "rank": 837,
         "percent": 2.07,
         "benchmarks": 19,
         "average": 1353.4434557,
@@ -7525,21 +7534,12 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1575M v5 @ 3.00GHz",
-        "rank": 837,
+        "rank": 838,
         "percent": 2.06,
         "benchmarks": 1,
         "average": 2135.0687172,
         "high": 2135.068717186663,
         "low": 2135.068717186663
-    },
-    {
-        "cpu": "AMD Ryzen 5 5625U with Radeon Graphics",
-        "rank": 838,
-        "percent": 2.05,
-        "benchmarks": 2,
-        "average": 1796.3890419,
-        "high": 2126.171254589872,
-        "low": 1466.606829108039
     },
     {
         "cpu": "Intel(R) Xeon(R) Gold 6161 CPU @ 2.20GHz",
@@ -7803,8 +7803,17 @@
         "low": 295.2695456628447
     },
     {
-        "cpu": "Intel(R) Core(TM) i7-8569U CPU @ 2.80GHz",
+        "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
         "rank": 868,
+        "percent": 1.88,
+        "benchmarks": 2,
+        "average": 1643.9718074,
+        "high": 1953.1936669648544,
+        "low": 1334.749947944752
+    },
+    {
+        "cpu": "Intel(R) Core(TM) i7-8569U CPU @ 2.80GHz",
+        "rank": 869,
         "percent": 1.88,
         "benchmarks": 1,
         "average": 1948.3113012,
@@ -7813,7 +7822,7 @@
     },
     {
         "cpu": "Intel Xeon E312xx (Sandy Bridge, IBRS update)",
-        "rank": 869,
+        "rank": 870,
         "percent": 1.88,
         "benchmarks": 2,
         "average": 972.8402460,
@@ -7822,7 +7831,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
-        "rank": 870,
+        "rank": 871,
         "percent": 1.87,
         "benchmarks": 3,
         "average": 1589.6015547,
@@ -7831,7 +7840,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
-        "rank": 871,
+        "rank": 872,
         "percent": 1.87,
         "benchmarks": 49,
         "average": 1261.7712823,
@@ -7840,7 +7849,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics",
-        "rank": 872,
+        "rank": 873,
         "percent": 1.86,
         "benchmarks": 83,
         "average": 1172.2821372,
@@ -7849,7 +7858,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
-        "rank": 873,
+        "rank": 874,
         "percent": 1.85,
         "benchmarks": 62,
         "average": 1185.0415251,
@@ -7858,7 +7867,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3840QM CPU @ 2.80GHz",
-        "rank": 874,
+        "rank": 875,
         "percent": 1.85,
         "benchmarks": 3,
         "average": 1634.6634501,
@@ -7867,7 +7876,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
-        "rank": 875,
+        "rank": 876,
         "percent": 1.84,
         "benchmarks": 62,
         "average": 1212.9889883,
@@ -7876,7 +7885,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 4300GE with Radeon Graphics",
-        "rank": 876,
+        "rank": 877,
         "percent": 1.84,
         "benchmarks": 2,
         "average": 1666.5842828,
@@ -7885,7 +7894,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) W-2225 CPU @ 4.10GHz",
-        "rank": 877,
+        "rank": 878,
         "percent": 1.84,
         "benchmarks": 1,
         "average": 1904.7510205,
@@ -7894,7 +7903,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
-        "rank": 878,
+        "rank": 879,
         "percent": 1.83,
         "benchmarks": 43,
         "average": 985.1799684,
@@ -7903,7 +7912,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
-        "rank": 879,
+        "rank": 880,
         "percent": 1.83,
         "benchmarks": 20,
         "average": 1228.8481571,
@@ -7912,7 +7921,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3770T CPU @ 2.50GHz",
-        "rank": 880,
+        "rank": 881,
         "percent": 1.83,
         "benchmarks": 1,
         "average": 1898.6212213,
@@ -7921,7 +7930,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1607 v2 @ 3.00GHz",
-        "rank": 881,
+        "rank": 882,
         "percent": 1.83,
         "benchmarks": 2,
         "average": 1859.9349136,
@@ -7930,7 +7939,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU W3690 @ 3.47GHz",
-        "rank": 882,
+        "rank": 883,
         "percent": 1.83,
         "benchmarks": 6,
         "average": 1646.9063560,
@@ -7939,7 +7948,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
-        "rank": 883,
+        "rank": 884,
         "percent": 1.82,
         "benchmarks": 85,
         "average": 1332.2908861,
@@ -7948,7 +7957,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
-        "rank": 884,
+        "rank": 885,
         "percent": 1.82,
         "benchmarks": 114,
         "average": 1148.5120073,
@@ -7957,7 +7966,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
-        "rank": 885,
+        "rank": 886,
         "percent": 1.82,
         "benchmarks": 5,
         "average": 1238.1166841,
@@ -7966,7 +7975,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6770HQ CPU @ 2.60GHz",
-        "rank": 886,
+        "rank": 887,
         "percent": 1.81,
         "benchmarks": 11,
         "average": 1353.1804428,
@@ -7975,7 +7984,7 @@
     },
     {
         "cpu": "Intel Xeon Processor (Icelake)",
-        "rank": 887,
+        "rank": 888,
         "percent": 1.81,
         "benchmarks": 1,
         "average": 1876.0071814,
@@ -7984,7 +7993,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz",
-        "rank": 888,
+        "rank": 889,
         "percent": 1.81,
         "benchmarks": 2,
         "average": 1804.8188298,
@@ -7993,7 +8002,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
-        "rank": 889,
+        "rank": 890,
         "percent": 1.81,
         "benchmarks": 48,
         "average": 955.3089588,
@@ -8002,7 +8011,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3820QM CPU @ 2.70GHz",
-        "rank": 890,
+        "rank": 891,
         "percent": 1.80,
         "benchmarks": 1,
         "average": 1867.8670826,
@@ -8011,7 +8020,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-6300 CPU @ 3.80GHz",
-        "rank": 891,
+        "rank": 892,
         "percent": 1.80,
         "benchmarks": 4,
         "average": 1155.9378979,
@@ -8020,7 +8029,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7 CPU X 990 @ 3.47GHz",
-        "rank": 892,
+        "rank": 893,
         "percent": 1.79,
         "benchmarks": 9,
         "average": 1751.9092275,
@@ -8029,7 +8038,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz",
-        "rank": 893,
+        "rank": 894,
         "percent": 1.79,
         "benchmarks": 73,
         "average": 1118.8645750,
@@ -8038,7 +8047,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31220 @ 3.10GHz",
-        "rank": 894,
+        "rank": 895,
         "percent": 1.78,
         "benchmarks": 6,
         "average": 1153.5626377,
@@ -8047,7 +8056,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
-        "rank": 895,
+        "rank": 896,
         "percent": 1.78,
         "benchmarks": 3,
         "average": 1133.6907094,
@@ -8056,7 +8065,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
-        "rank": 896,
+        "rank": 897,
         "percent": 1.78,
         "benchmarks": 87,
         "average": 1187.9264422,
@@ -8065,7 +8074,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz",
-        "rank": 897,
+        "rank": 898,
         "percent": 1.78,
         "benchmarks": 5,
         "average": 1579.0135979,
@@ -8074,7 +8083,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz",
-        "rank": 898,
+        "rank": 899,
         "percent": 1.77,
         "benchmarks": 14,
         "average": 1214.1133950,
@@ -8083,7 +8092,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2637 0 @ 3.00GHz",
-        "rank": 899,
+        "rank": 900,
         "percent": 1.77,
         "benchmarks": 1,
         "average": 1831.6091786,
@@ -8092,7 +8101,7 @@
     },
     {
         "cpu": "Intel Core Processor (Broadwell, IBRS)",
-        "rank": 900,
+        "rank": 901,
         "percent": 1.76,
         "benchmarks": 2,
         "average": 1720.1856036,
@@ -8101,7 +8110,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM)2 Extreme CPU X9775 @ 3.20GHz",
-        "rank": 901,
+        "rank": 902,
         "percent": 1.76,
         "benchmarks": 2,
         "average": 1823.9245275,
@@ -8110,7 +8119,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz",
-        "rank": 902,
+        "rank": 903,
         "percent": 1.76,
         "benchmarks": 30,
         "average": 1257.9959816,
@@ -8119,7 +8128,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
-        "rank": 903,
+        "rank": 904,
         "percent": 1.75,
         "benchmarks": 63,
         "average": 1056.6528797,
@@ -8128,7 +8137,7 @@
     },
     {
         "cpu": "DO-Premium-AMD",
-        "rank": 904,
+        "rank": 905,
         "percent": 1.75,
         "benchmarks": 2,
         "average": 1147.1031682,
@@ -8137,7 +8146,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
-        "rank": 905,
+        "rank": 906,
         "percent": 1.75,
         "benchmarks": 12,
         "average": 1428.2860734,
@@ -8146,7 +8155,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU L5638 @ 2.00GHz",
-        "rank": 906,
+        "rank": 907,
         "percent": 1.74,
         "benchmarks": 4,
         "average": 1390.4049224,
@@ -8155,7 +8164,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5606 @ 2.13GHz",
-        "rank": 907,
+        "rank": 908,
         "percent": 1.74,
         "benchmarks": 4,
         "average": 1333.8398823,
@@ -8164,7 +8173,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2860QM CPU @ 2.50GHz",
-        "rank": 908,
+        "rank": 909,
         "percent": 1.73,
         "benchmarks": 4,
         "average": 1297.1296662,
@@ -8173,7 +8182,7 @@
     },
     {
         "cpu": "AMD Opteron(tm) Processor 6172",
-        "rank": 909,
+        "rank": 910,
         "percent": 1.73,
         "benchmarks": 1,
         "average": 1795.0163167,
@@ -8182,7 +8191,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4860HQ CPU @ 2.40GHz",
-        "rank": 910,
+        "rank": 911,
         "percent": 1.73,
         "benchmarks": 1,
         "average": 1793.2137618,
@@ -8191,7 +8200,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz",
-        "rank": 911,
+        "rank": 912,
         "percent": 1.73,
         "benchmarks": 9,
         "average": 1569.2053472,
@@ -8200,7 +8209,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU",
-        "rank": 912,
+        "rank": 913,
         "percent": 1.72,
         "benchmarks": 3,
         "average": 1678.1034322,
@@ -8209,7 +8218,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i3-1125G4 @ 2.00GHz",
-        "rank": 913,
+        "rank": 914,
         "percent": 1.72,
         "benchmarks": 1,
         "average": 1781.8260866,
@@ -8218,7 +8227,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz",
-        "rank": 914,
+        "rank": 915,
         "percent": 1.72,
         "benchmarks": 22,
         "average": 1153.3705027,
@@ -8227,7 +8236,7 @@
     },
     {
         "cpu": "AMD EPYC-Rome Processor",
-        "rank": 915,
+        "rank": 916,
         "percent": 1.71,
         "benchmarks": 4,
         "average": 1121.6751228,
@@ -8236,7 +8245,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz",
-        "rank": 916,
+        "rank": 917,
         "percent": 1.70,
         "benchmarks": 16,
         "average": 1233.2642040,
@@ -8245,7 +8254,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5570 @ 2.93GHz",
-        "rank": 917,
+        "rank": 918,
         "percent": 1.70,
         "benchmarks": 9,
         "average": 1219.9074562,
@@ -8254,7 +8263,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz",
-        "rank": 918,
+        "rank": 919,
         "percent": 1.70,
         "benchmarks": 7,
         "average": 1400.9086025,
@@ -8263,7 +8272,7 @@
     },
     {
         "cpu": "12th Gen Intel(R) Core(TM) i5-1230U",
-        "rank": 919,
+        "rank": 920,
         "percent": 1.70,
         "benchmarks": 1,
         "average": 1764.4837650,
@@ -8272,7 +8281,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
-        "rank": 920,
+        "rank": 921,
         "percent": 1.69,
         "benchmarks": 144,
         "average": 1024.9747976,
@@ -8281,7 +8290,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2960XM CPU @ 2.70GHz",
-        "rank": 921,
+        "rank": 922,
         "percent": 1.69,
         "benchmarks": 3,
         "average": 1573.7376207,
@@ -8290,7 +8299,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU D-1528 @ 1.90GHz",
-        "rank": 922,
+        "rank": 923,
         "percent": 1.69,
         "benchmarks": 3,
         "average": 1681.9344823,
@@ -8299,7 +8308,7 @@
     },
     {
         "cpu": "AMD FX(tm)-6350 Six-Core Processor",
-        "rank": 923,
+        "rank": 924,
         "percent": 1.68,
         "benchmarks": 2,
         "average": 1572.2308451,
@@ -8308,7 +8317,7 @@
     },
     {
         "cpu": "AMD FX(tm)-6100 Six-Core Processor",
-        "rank": 924,
+        "rank": 925,
         "percent": 1.68,
         "benchmarks": 6,
         "average": 1201.0138382,
@@ -8317,7 +8326,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6440HQ CPU @ 2.60GHz",
-        "rank": 925,
+        "rank": 926,
         "percent": 1.67,
         "benchmarks": 1,
         "average": 1732.7058628,
@@ -8326,7 +8335,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6500TE CPU @ 2.30GHz",
-        "rank": 926,
+        "rank": 927,
         "percent": 1.67,
         "benchmarks": 1,
         "average": 1732.6848472,
@@ -8335,7 +8344,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5450 @ 3.00GHz",
-        "rank": 927,
+        "rank": 928,
         "percent": 1.67,
         "benchmarks": 7,
         "average": 960.3479980,
@@ -8344,7 +8353,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i7-11375H @ 3.30GHz",
-        "rank": 928,
+        "rank": 929,
         "percent": 1.67,
         "benchmarks": 1,
         "average": 1727.8826699,
@@ -8353,7 +8362,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
-        "rank": 929,
+        "rank": 930,
         "percent": 1.66,
         "benchmarks": 105,
         "average": 865.4257706,
@@ -8362,7 +8371,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz",
-        "rank": 930,
+        "rank": 931,
         "percent": 1.66,
         "benchmarks": 3,
         "average": 1211.4318756,
@@ -8371,7 +8380,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz",
-        "rank": 931,
+        "rank": 932,
         "percent": 1.66,
         "benchmarks": 24,
         "average": 1058.2186516,
@@ -8380,7 +8389,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3340 CPU @ 3.10GHz",
-        "rank": 932,
+        "rank": 933,
         "percent": 1.66,
         "benchmarks": 7,
         "average": 1284.5652898,
@@ -8389,7 +8398,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz",
-        "rank": 933,
+        "rank": 934,
         "percent": 1.65,
         "benchmarks": 30,
         "average": 1191.3528445,
@@ -8398,7 +8407,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4670S CPU @ 3.10GHz",
-        "rank": 934,
+        "rank": 935,
         "percent": 1.65,
         "benchmarks": 1,
         "average": 1706.8195977,
@@ -8407,7 +8416,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
-        "rank": 935,
+        "rank": 936,
         "percent": 1.64,
         "benchmarks": 21,
         "average": 1084.5180383,
@@ -8416,7 +8425,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
-        "rank": 936,
+        "rank": 937,
         "percent": 1.64,
         "benchmarks": 9,
         "average": 1133.5649461,
@@ -8425,7 +8434,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
-        "rank": 937,
+        "rank": 938,
         "percent": 1.64,
         "benchmarks": 18,
         "average": 1203.0524630,
@@ -8434,7 +8443,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4750HQ CPU @ 2.00GHz",
-        "rank": 938,
+        "rank": 939,
         "percent": 1.64,
         "benchmarks": 2,
         "average": 1595.9058522,
@@ -8443,7 +8452,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz",
-        "rank": 939,
+        "rank": 940,
         "percent": 1.63,
         "benchmarks": 2,
         "average": 1419.5091565,
@@ -8452,7 +8461,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1607 0 @ 3.00GHz",
-        "rank": 940,
+        "rank": 941,
         "percent": 1.62,
         "benchmarks": 1,
         "average": 1683.1333210,
@@ -8461,7 +8470,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1285L v4 @ 3.40GHz",
-        "rank": 941,
+        "rank": 942,
         "percent": 1.62,
         "benchmarks": 1,
         "average": 1679.6108678,
@@ -8470,7 +8479,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
-        "rank": 942,
+        "rank": 943,
         "percent": 1.62,
         "benchmarks": 7,
         "average": 1021.5001818,
@@ -8479,7 +8488,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz",
-        "rank": 943,
+        "rank": 944,
         "percent": 1.62,
         "benchmarks": 10,
         "average": 1087.3475533,
@@ -8488,7 +8497,7 @@
     },
     {
         "cpu": "Westmere E56xx/L56xx/X56xx (IBRS update)",
-        "rank": 944,
+        "rank": 945,
         "percent": 1.61,
         "benchmarks": 1,
         "average": 1672.3974151,
@@ -8497,7 +8506,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz",
-        "rank": 945,
+        "rank": 946,
         "percent": 1.61,
         "benchmarks": 11,
         "average": 1104.5669261,
@@ -8506,7 +8515,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHz",
-        "rank": 946,
+        "rank": 947,
         "percent": 1.61,
         "benchmarks": 9,
         "average": 1129.2767151,
@@ -8515,7 +8524,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1603 v3 @ 2.80GHz",
-        "rank": 947,
+        "rank": 948,
         "percent": 1.61,
         "benchmarks": 3,
         "average": 1400.4332292,
@@ -8524,7 +8533,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7400T CPU @ 2.40GHz",
-        "rank": 948,
+        "rank": 949,
         "percent": 1.60,
         "benchmarks": 4,
         "average": 1171.2893901,
@@ -8533,7 +8542,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
-        "rank": 949,
+        "rank": 950,
         "percent": 1.60,
         "benchmarks": 2,
         "average": 1363.8413131,
@@ -8542,7 +8551,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz",
-        "rank": 950,
+        "rank": 951,
         "percent": 1.60,
         "benchmarks": 3,
         "average": 786.0438248,
@@ -8551,7 +8560,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
-        "rank": 951,
+        "rank": 952,
         "percent": 1.59,
         "benchmarks": 18,
         "average": 854.4980221,
@@ -8560,7 +8569,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4712HQ CPU @ 2.30GHz",
-        "rank": 952,
+        "rank": 953,
         "percent": 1.59,
         "benchmarks": 5,
         "average": 1385.4998233,
@@ -8569,7 +8578,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 5560U with Radeon Graphics",
-        "rank": 953,
+        "rank": 954,
         "percent": 1.59,
         "benchmarks": 1,
         "average": 1652.4391655,
@@ -8578,7 +8587,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU W3680 @ 3.33GHz",
-        "rank": 954,
+        "rank": 955,
         "percent": 1.59,
         "benchmarks": 3,
         "average": 1368.2603621,
@@ -8587,7 +8596,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU D-1541 @ 2.10GHz",
-        "rank": 955,
+        "rank": 956,
         "percent": 1.59,
         "benchmarks": 2,
         "average": 1314.9457524,
@@ -8596,7 +8605,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 PRO 4350G with Radeon Graphics",
-        "rank": 956,
+        "rank": 957,
         "percent": 1.58,
         "benchmarks": 5,
         "average": 1380.4070371,
@@ -8605,7 +8614,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E3-1225 v6 @ 3.30GHz",
-        "rank": 957,
+        "rank": 958,
         "percent": 1.58,
         "benchmarks": 2,
         "average": 1615.5959300,
@@ -8614,7 +8623,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4690S CPU @ 3.20GHz",
-        "rank": 958,
+        "rank": 959,
         "percent": 1.58,
         "benchmarks": 2,
         "average": 1264.0772838,
@@ -8623,7 +8632,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz",
-        "rank": 959,
+        "rank": 960,
         "percent": 1.58,
         "benchmarks": 6,
         "average": 1101.2958924,
@@ -8632,7 +8641,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz",
-        "rank": 960,
+        "rank": 961,
         "percent": 1.57,
         "benchmarks": 5,
         "average": 1221.9939475,
@@ -8641,7 +8650,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz",
-        "rank": 961,
+        "rank": 962,
         "percent": 1.57,
         "benchmarks": 9,
         "average": 1441.2632928,
@@ -8650,7 +8659,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-1603 0 @ 2.80GHz",
-        "rank": 962,
+        "rank": 963,
         "percent": 1.57,
         "benchmarks": 4,
         "average": 1216.2443446,
@@ -8659,7 +8668,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics",
-        "rank": 963,
+        "rank": 964,
         "percent": 1.57,
         "benchmarks": 62,
         "average": 1148.8971820,
@@ -8668,7 +8677,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3350P CPU @ 3.10GHz",
-        "rank": 964,
+        "rank": 965,
         "percent": 1.56,
         "benchmarks": 7,
         "average": 1494.9376030,
@@ -8677,7 +8686,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
-        "rank": 965,
+        "rank": 966,
         "percent": 1.56,
         "benchmarks": 4,
         "average": 1220.9478390,
@@ -8686,7 +8695,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz",
-        "rank": 966,
+        "rank": 967,
         "percent": 1.56,
         "benchmarks": 25,
         "average": 907.2800014,
@@ -8695,7 +8704,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz",
-        "rank": 967,
+        "rank": 968,
         "percent": 1.55,
         "benchmarks": 37,
         "average": 1051.4096329,
@@ -8704,7 +8713,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz",
-        "rank": 968,
+        "rank": 969,
         "percent": 1.55,
         "benchmarks": 5,
         "average": 1520.4439639,
@@ -8713,7 +8722,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7 CPU 980 @ 3.33GHz",
-        "rank": 969,
+        "rank": 970,
         "percent": 1.53,
         "benchmarks": 1,
         "average": 1590.1057261,
@@ -8722,7 +8731,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
-        "rank": 970,
+        "rank": 971,
         "percent": 1.53,
         "benchmarks": 10,
         "average": 904.3514887,
@@ -8731,7 +8740,7 @@
     },
     {
         "cpu": "AMD FX(tm)-6200 Six-Core Processor",
-        "rank": 971,
+        "rank": 972,
         "percent": 1.53,
         "benchmarks": 1,
         "average": 1583.8046472,
@@ -8740,7 +8749,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics",
-        "rank": 972,
+        "rank": 973,
         "percent": 1.52,
         "benchmarks": 44,
         "average": 964.7996693,
@@ -8749,7 +8758,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4712MQ CPU @ 2.30GHz",
-        "rank": 973,
+        "rank": 974,
         "percent": 1.52,
         "benchmarks": 7,
         "average": 1153.4485257,
@@ -8758,7 +8767,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Gold 6271 CPU @ 2.60GHz",
-        "rank": 974,
+        "rank": 975,
         "percent": 1.52,
         "benchmarks": 1,
         "average": 1572.9329695,
@@ -8767,7 +8776,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2658 0 @ 2.10GHz",
-        "rank": 975,
+        "rank": 976,
         "percent": 1.51,
         "benchmarks": 1,
         "average": 1569.1837420,
@@ -8776,7 +8785,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz",
-        "rank": 976,
+        "rank": 977,
         "percent": 1.51,
         "benchmarks": 15,
         "average": 943.7820617,
@@ -8785,7 +8794,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-1038NG7 CPU @ 2.00GHz",
-        "rank": 977,
+        "rank": 978,
         "percent": 1.50,
         "benchmarks": 2,
         "average": 1549.6129346,
@@ -8794,7 +8803,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz",
-        "rank": 978,
+        "rank": 979,
         "percent": 1.49,
         "benchmarks": 9,
         "average": 1055.9419487,
@@ -8803,7 +8812,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics",
-        "rank": 979,
+        "rank": 980,
         "percent": 1.49,
         "benchmarks": 3,
         "average": 1476.7671804,
@@ -8812,7 +8821,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz",
-        "rank": 980,
+        "rank": 981,
         "percent": 1.49,
         "benchmarks": 8,
         "average": 1173.3181949,
@@ -8821,7 +8830,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz",
-        "rank": 981,
+        "rank": 982,
         "percent": 1.49,
         "benchmarks": 3,
         "average": 1314.5650990,
@@ -8830,7 +8839,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31260L @ 2.40GHz",
-        "rank": 982,
+        "rank": 983,
         "percent": 1.49,
         "benchmarks": 12,
         "average": 1061.4689718,
@@ -8839,7 +8848,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31265L @ 2.40GHz",
-        "rank": 983,
+        "rank": 984,
         "percent": 1.49,
         "benchmarks": 2,
         "average": 1533.9710933,
@@ -8848,7 +8857,7 @@
     },
     {
         "cpu": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
-        "rank": 984,
+        "rank": 985,
         "percent": 1.49,
         "benchmarks": 1,
         "average": 1540.4665149,
@@ -8857,7 +8866,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx",
-        "rank": 985,
+        "rank": 986,
         "percent": 1.48,
         "benchmarks": 36,
         "average": 973.9378913,
@@ -8866,7 +8875,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz",
-        "rank": 986,
+        "rank": 987,
         "percent": 1.48,
         "benchmarks": 22,
         "average": 1121.5869898,
@@ -8875,7 +8884,7 @@
     },
     {
         "cpu": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
-        "rank": 987,
+        "rank": 988,
         "percent": 1.48,
         "benchmarks": 2,
         "average": 1107.1406358,
@@ -8884,7 +8893,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
-        "rank": 988,
+        "rank": 989,
         "percent": 1.48,
         "benchmarks": 35,
         "average": 1014.2392793,
@@ -8893,7 +8902,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 4300G with Radeon Graphics",
-        "rank": 989,
+        "rank": 990,
         "percent": 1.48,
         "benchmarks": 6,
         "average": 1221.4552613,
@@ -8902,7 +8911,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5460 @ 3.16GHz",
-        "rank": 990,
+        "rank": 991,
         "percent": 1.48,
         "benchmarks": 5,
         "average": 1008.9148540,
@@ -8911,7 +8920,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-1035G7 CPU @ 1.20GHz",
-        "rank": 991,
+        "rank": 992,
         "percent": 1.47,
         "benchmarks": 3,
         "average": 1062.5056253,
@@ -8920,7 +8929,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz",
-        "rank": 992,
+        "rank": 993,
         "percent": 1.47,
         "benchmarks": 1,
         "average": 1524.8993185,
@@ -8929,7 +8938,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3610QE CPU @ 2.30GHz",
-        "rank": 993,
+        "rank": 994,
         "percent": 1.46,
         "benchmarks": 4,
         "average": 1499.7064330,
@@ -8938,7 +8947,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-9500F CPU @ 3.00GHz",
-        "rank": 994,
+        "rank": 995,
         "percent": 1.46,
         "benchmarks": 1,
         "average": 1515.9485366,
@@ -8947,7 +8956,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz",
-        "rank": 995,
+        "rank": 996,
         "percent": 1.46,
         "benchmarks": 19,
         "average": 1098.8491374,
@@ -8956,7 +8965,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-4850HQ CPU @ 2.30GHz",
-        "rank": 996,
+        "rank": 997,
         "percent": 1.46,
         "benchmarks": 1,
         "average": 1510.1633997,
@@ -8965,7 +8974,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
-        "rank": 997,
+        "rank": 998,
         "percent": 1.45,
         "benchmarks": 61,
         "average": 1045.5076648,
@@ -8974,7 +8983,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz",
-        "rank": 998,
+        "rank": 999,
         "percent": 1.45,
         "benchmarks": 18,
         "average": 963.4491993,
@@ -8983,7 +8992,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4670T CPU @ 2.30GHz",
-        "rank": 999,
+        "rank": 1000,
         "percent": 1.45,
         "benchmarks": 2,
         "average": 1429.2903426,
@@ -8992,7 +9001,7 @@
     },
     {
         "cpu": "AMD Custom APU 0405",
-        "rank": 1000,
+        "rank": 1001,
         "percent": 1.44,
         "benchmarks": 5,
         "average": 1380.4194230,
@@ -9001,7 +9010,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz",
-        "rank": 1001,
+        "rank": 1002,
         "percent": 1.44,
         "benchmarks": 16,
         "average": 920.9528958,
@@ -9010,7 +9019,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i3-7320 CPU @ 4.10GHz",
-        "rank": 1002,
+        "rank": 1003,
         "percent": 1.44,
         "benchmarks": 1,
         "average": 1494.7370309,
@@ -9019,7 +9028,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5540 @ 2.53GHz",
-        "rank": 1003,
+        "rank": 1004,
         "percent": 1.43,
         "benchmarks": 5,
         "average": 1072.0914732,
@@ -9028,7 +9037,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-3450S CPU @ 2.80GHz",
-        "rank": 1004,
+        "rank": 1005,
         "percent": 1.43,
         "benchmarks": 2,
         "average": 1184.1149634,
@@ -9037,7 +9046,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4690T CPU @ 2.50GHz",
-        "rank": 1005,
+        "rank": 1006,
         "percent": 1.43,
         "benchmarks": 1,
         "average": 1479.3205776,
@@ -9046,7 +9055,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU X5482 @ 3.20GHz",
-        "rank": 1006,
+        "rank": 1007,
         "percent": 1.42,
         "benchmarks": 1,
         "average": 1476.8387381,
@@ -9055,7 +9064,7 @@
     },
     {
         "cpu": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
-        "rank": 1007,
+        "rank": 1008,
         "percent": 1.42,
         "benchmarks": 7,
         "average": 1063.5857732,
@@ -9064,7 +9073,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
-        "rank": 1008,
+        "rank": 1009,
         "percent": 1.42,
         "benchmarks": 8,
         "average": 1151.8376992,
@@ -9073,7 +9082,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8400H CPU @ 2.50GHz",
-        "rank": 1009,
+        "rank": 1010,
         "percent": 1.41,
         "benchmarks": 1,
         "average": 1462.9186690,
@@ -9082,7 +9091,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz",
-        "rank": 1010,
+        "rank": 1011,
         "percent": 1.40,
         "benchmarks": 11,
         "average": 1106.8739399,
@@ -9091,7 +9100,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz",
-        "rank": 1011,
+        "rank": 1012,
         "percent": 1.40,
         "benchmarks": 6,
         "average": 1108.7969944,
@@ -9100,7 +9109,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31225 @ 3.10GHz",
-        "rank": 1012,
+        "rank": 1013,
         "percent": 1.40,
         "benchmarks": 3,
         "average": 1419.5823757,
@@ -9109,7 +9118,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 PRO 3400G with Radeon Vega Graphics",
-        "rank": 1013,
+        "rank": 1014,
         "percent": 1.40,
         "benchmarks": 3,
         "average": 1093.9879679,
@@ -9118,7 +9127,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5420 @ 2.50GHz",
-        "rank": 1014,
+        "rank": 1015,
         "percent": 1.39,
         "benchmarks": 11,
         "average": 954.7779415,
@@ -9127,7 +9136,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2760QM CPU @ 2.40GHz",
-        "rank": 1015,
+        "rank": 1016,
         "percent": 1.39,
         "benchmarks": 7,
         "average": 1204.7856265,
@@ -9136,7 +9145,7 @@
     },
     {
         "cpu": "AMD Athlon 3000G with Radeon Vega Graphics",
-        "rank": 1016,
+        "rank": 1017,
         "percent": 1.39,
         "benchmarks": 31,
         "average": 892.8421376,
@@ -9145,7 +9154,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU @ 2.30GHz",
-        "rank": 1017,
+        "rank": 1018,
         "percent": 1.39,
         "benchmarks": 1,
         "average": 1436.6907839,
@@ -9154,7 +9163,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 4600HS with Radeon Graphics",
-        "rank": 1018,
+        "rank": 1019,
         "percent": 1.38,
         "benchmarks": 1,
         "average": 1434.5926187,
@@ -9163,7 +9172,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 3350G with Radeon Vega Graphics",
-        "rank": 1019,
+        "rank": 1020,
         "percent": 1.38,
         "benchmarks": 5,
         "average": 1318.3048399,
@@ -9172,7 +9181,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz",
-        "rank": 1020,
+        "rank": 1021,
         "percent": 1.38,
         "benchmarks": 1,
         "average": 1427.7779919,
@@ -9181,7 +9190,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 4300U with Radeon Graphics",
-        "rank": 1021,
+        "rank": 1022,
         "percent": 1.38,
         "benchmarks": 5,
         "average": 1204.7289250,
@@ -9190,7 +9199,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz",
-        "rank": 1022,
+        "rank": 1023,
         "percent": 1.38,
         "benchmarks": 4,
         "average": 1377.8138478,
@@ -9199,7 +9208,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz",
-        "rank": 1023,
+        "rank": 1024,
         "percent": 1.37,
         "benchmarks": 13,
         "average": 1060.9764177,
@@ -9208,7 +9217,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 2700U with Radeon Vega Mobile Gfx",
-        "rank": 1024,
+        "rank": 1025,
         "percent": 1.37,
         "benchmarks": 6,
         "average": 904.7315972,
@@ -9217,7 +9226,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3615QE CPU @ 2.30GHz",
-        "rank": 1025,
+        "rank": 1026,
         "percent": 1.37,
         "benchmarks": 4,
         "average": 1178.1258783,
@@ -9226,7 +9235,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
-        "rank": 1026,
+        "rank": 1027,
         "percent": 1.37,
         "benchmarks": 8,
         "average": 1061.7185349,
@@ -9235,7 +9244,7 @@
     },
     {
         "cpu": "AMD Opteron(TM) Processor 6238",
-        "rank": 1027,
+        "rank": 1028,
         "percent": 1.35,
         "benchmarks": 1,
         "average": 1399.0534005,
@@ -9244,7 +9253,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 2300X Quad-Core Processor",
-        "rank": 1028,
+        "rank": 1029,
         "percent": 1.35,
         "benchmarks": 1,
         "average": 1398.9578883,
@@ -9253,7 +9262,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz",
-        "rank": 1029,
+        "rank": 1030,
         "percent": 1.35,
         "benchmarks": 5,
         "average": 1018.2811937,
@@ -9262,7 +9271,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3612QE CPU @ 2.10GHz",
-        "rank": 1030,
+        "rank": 1031,
         "percent": 1.34,
         "benchmarks": 1,
         "average": 1388.3393379,
@@ -9271,7 +9280,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz",
-        "rank": 1031,
+        "rank": 1032,
         "percent": 1.34,
         "benchmarks": 11,
         "average": 1233.9753049,
@@ -9280,7 +9289,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) E-2174G CPU @ 3.80GHz",
-        "rank": 1032,
+        "rank": 1033,
         "percent": 1.33,
         "benchmarks": 1,
         "average": 1383.4205349,
@@ -9289,7 +9298,7 @@
     },
     {
         "cpu": "Six-Core AMD Opteron(tm) Processor 8439 SE",
-        "rank": 1033,
+        "rank": 1034,
         "percent": 1.33,
         "benchmarks": 2,
         "average": 1287.8334762,
@@ -9298,7 +9307,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU L5420 @ 2.50GHz",
-        "rank": 1034,
+        "rank": 1035,
         "percent": 1.33,
         "benchmarks": 5,
         "average": 1015.9007552,
@@ -9307,7 +9316,7 @@
     },
     {
         "cpu": "AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx",
-        "rank": 1035,
+        "rank": 1036,
         "percent": 1.32,
         "benchmarks": 28,
         "average": 1056.5926077,
@@ -9316,7 +9325,7 @@
     },
     {
         "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx",
-        "rank": 1036,
+        "rank": 1037,
         "percent": 1.32,
         "benchmarks": 69,
         "average": 798.3879524,
@@ -9325,7 +9334,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-2600S CPU @ 2.80GHz",
-        "rank": 1037,
+        "rank": 1038,
         "percent": 1.32,
         "benchmarks": 2,
         "average": 1364.7143194,
@@ -9334,7 +9343,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5530 @ 2.40GHz",
-        "rank": 1038,
+        "rank": 1039,
         "percent": 1.32,
         "benchmarks": 7,
         "average": 1004.8967116,
@@ -9343,7 +9352,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5520 @ 2.27GHz",
-        "rank": 1039,
+        "rank": 1040,
         "percent": 1.32,
         "benchmarks": 14,
         "average": 902.9185951,
@@ -9352,7 +9361,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31235 @ 3.20GHz",
-        "rank": 1040,
+        "rank": 1041,
         "percent": 1.31,
         "benchmarks": 1,
         "average": 1358.3855859,
@@ -9361,7 +9370,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i7-3635QM CPU @ 2.40GHz",
-        "rank": 1041,
+        "rank": 1042,
         "percent": 1.31,
         "benchmarks": 3,
         "average": 978.7275076,
@@ -9370,7 +9379,7 @@
     },
     {
         "cpu": "Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz",
-        "rank": 1042,
+        "rank": 1043,
         "percent": 1.31,
         "benchmarks": 1,
         "average": 1355.5498924,
@@ -9379,7 +9388,7 @@
     },
     {
         "cpu": "AMD Ryzen 3 PRO 3200G with Radeon Vega Graphics",
-        "rank": 1043,
+        "rank": 1044,
         "percent": 1.31,
         "benchmarks": 4,
         "average": 1045.3313919,
@@ -9388,7 +9397,7 @@
     },
     {
         "cpu": "AMD FX(tm)-4350 Quad-Core Processor",
-        "rank": 1044,
+        "rank": 1045,
         "percent": 1.31,
         "benchmarks": 5,
         "average": 937.9148166,
@@ -9397,7 +9406,7 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E31230 @ 3.20GHz",
-        "rank": 1045,
+        "rank": 1046,
         "percent": 1.30,
         "benchmarks": 4,
         "average": 1209.9079729,
@@ -9406,21 +9415,12 @@
     },
     {
         "cpu": "QEMU Virtual CPU version (cpu64-rhel6)",
-        "rank": 1046,
+        "rank": 1047,
         "percent": 1.29,
         "benchmarks": 1,
         "average": 1337.3113889,
         "high": 1337.3113889449817,
         "low": 1337.3113889449817
-    },
-    {
-        "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
-        "rank": 1047,
-        "percent": 1.29,
-        "benchmarks": 1,
-        "average": 1334.7499479,
-        "high": 1334.749947944752,
-        "low": 1334.749947944752
     },
     {
         "cpu": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",

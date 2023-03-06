@@ -51,8 +51,8 @@
     "cpu": "AMD Eng Sample: ZS1406E2VJUG5_22/14_N",
     "hashrate": 93274.88107452664,
     "hashrate_1t": 417.2341050495341,
-    "count": 218,
-    "size": 686000000,
+    "count": 219,
+    "size": 687000000,
     "threads": 256
   },
   {
@@ -174,6 +174,14 @@
     "count": 21,
     "size": 30000000,
     "threads": 128
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000%@",
+    "hashrate": 59828.29279966497,
+    "hashrate_1t": 578.6822710269989,
+    "count": 10,
+    "size": 37000000,
+    "threads": 240
   },
   {
     "cpu": "AMD EPYC 7532 32-Core Processor",
@@ -302,14 +310,6 @@
     "count": 2,
     "size": 2000000,
     "threads": 96
-  },
-  {
-    "cpu": "Genuine Intel(R) CPU 0000%@",
-    "hashrate": 43068.547900838974,
-    "hashrate_1t": 578.6822710269989,
-    "count": 9,
-    "size": 27000000,
-    "threads": 124
   },
   {
     "cpu": "AMD EPYC 7543 32-Core Processor",
@@ -763,8 +763,8 @@
     "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
     "hashrate": 23370.49241627521,
     "hashrate_1t": 991.2905214782918,
-    "count": 4037,
-    "size": 7251000000,
+    "count": 4038,
+    "size": 7252000000,
     "threads": 32
   },
   {
@@ -947,8 +947,8 @@
     "cpu": "AMD EPYC 7551P 32-Core Processor",
     "hashrate": 19645.207551617783,
     "hashrate_1t": 613.9127359880557,
-    "count": 39,
-    "size": 58000000,
+    "count": 40,
+    "size": 59000000,
     "threads": 32
   },
   {
@@ -1747,8 +1747,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
     "hashrate": 11795.791261677832,
     "hashrate_1t": 510.9945589299365,
-    "count": 68,
-    "size": 131000000,
+    "count": 70,
+    "size": 142000000,
     "threads": 30
   },
   {
@@ -1963,8 +1963,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
     "hashrate": 10751.693929378574,
     "hashrate_1t": 447.9872470574406,
-    "count": 71,
-    "size": 179000000,
+    "count": 72,
+    "size": 189000000,
     "threads": 24
   },
   {
@@ -1987,8 +1987,8 @@
     "cpu": "Genuine Intel(R) CPU 0000 @ 2.00GHz",
     "hashrate": 10625.750443625082,
     "hashrate_1t": 531.4219149894991,
-    "count": 14,
-    "size": 32000000,
+    "count": 16,
+    "size": 34000000,
     "threads": 40
   },
   {
@@ -2499,8 +2499,8 @@
     "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
     "hashrate": 9099.843482692098,
     "hashrate_1t": 1008.328795853752,
-    "count": 834,
-    "size": 1338000000,
+    "count": 835,
+    "size": 1348000000,
     "threads": 12
   },
   {
@@ -2643,8 +2643,8 @@
     "cpu": "AMD Ryzen 5 5600 6-Core Processor",
     "hashrate": 8347.384764353328,
     "hashrate_1t": 761.320068092467,
-    "count": 39,
-    "size": 48000000,
+    "count": 40,
+    "size": 49000000,
     "threads": 12
   },
   {
@@ -3507,8 +3507,8 @@
     "cpu": "Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz",
     "hashrate": 5714.906189814895,
     "hashrate_1t": 714.3632737268618,
-    "count": 13,
-    "size": 31000000,
+    "count": 14,
+    "size": 32000000,
     "threads": 8
   },
   {
@@ -3947,8 +3947,8 @@
     "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
     "hashrate": 4754.976082470305,
     "hashrate_1t": 792.4960137450508,
-    "count": 36,
-    "size": 63000000,
+    "count": 38,
+    "size": 65000000,
     "threads": 12
   },
   {
@@ -4536,6 +4536,14 @@
     "threads": 8
   },
   {
+    "cpu": "AMD Ryzen 5 5625U with Radeon Graphics",
+    "hashrate": 3848.477734632066,
+    "hashrate_1t": 481.05971682900827,
+    "count": 3,
+    "size": 3000000,
+    "threads": 8
+  },
+  {
     "cpu": "Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz",
     "hashrate": 3817.566148877445,
     "hashrate_1t": 636.2610248129075,
@@ -5115,8 +5123,8 @@
     "cpu": "AMD Ryzen 5 4600H with Radeon Graphics",
     "hashrate": 3086.2863950323135,
     "hashrate_1t": 771.5715987580784,
-    "count": 45,
-    "size": 72000000,
+    "count": 46,
+    "size": 73000000,
     "threads": 8
   },
   {
@@ -6752,14 +6760,6 @@
     "threads": 4
   },
   {
-    "cpu": "AMD Ryzen 5 5625U with Radeon Graphics",
-    "hashrate": 2126.171254589872,
-    "hashrate_1t": 265.771406823734,
-    "count": 2,
-    "size": 2000000,
-    "threads": 8
-  },
-  {
     "cpu": "Intel(R) Xeon(R) Gold 6161 CPU @ 2.20GHz",
     "hashrate": 2125.967846862284,
     "hashrate_1t": 531.491961715571,
@@ -6998,6 +6998,14 @@
     "count": 30,
     "size": 147000000,
     "threads": 4
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
+    "hashrate": 1953.1936669648544,
+    "hashrate_1t": 279.0276667092649,
+    "count": 2,
+    "size": 2000000,
+    "threads": 7
   },
   {
     "cpu": "Intel(R) Core(TM) i7-8569U CPU @ 2.80GHz",
@@ -8446,14 +8454,6 @@
     "count": 1,
     "size": 1000000,
     "threads": 8
-  },
-  {
-    "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
-    "hashrate": 1334.749947944752,
-    "hashrate_1t": 190.67856399210743,
-    "count": 1,
-    "size": 1000000,
-    "threads": 7
   },
   {
     "cpu": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
