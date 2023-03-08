@@ -4,12 +4,12 @@ This repo runs a GitHub Action every day that:
 3. Formats the data here in `JSON` and `Markdown`
 
 ## Stats
-* Uptime: `8` days
+* Uptime: `9` days
 * CPUs listed: `1609`
 * Fastest CPU: `AMD EPYC 7T83 64-Core Processor`
 * Slowest CPU: `Intel(R) Atom(TM) CPU N2600 @ 1.60GHz`
-* Total GitHub time used: `8281` seconds
-* Last updated: `Tue Mar  7 08:13:41 UTC 2023` (`1678176821`)
+* Total GitHub time used: `9484` seconds
+* Last updated: `Wed Mar  8 08:13:22 UTC 2023` (`1678263202`)
 
 ## List
 | Rank      | Relative % | CPU                                             | Benchmarks | Average | High   | Low   |
@@ -132,7 +132,7 @@ This repo runs a GitHub Action every day that:
 | 116 - 🟡  | 19.21%     | Intel(R) Xeon(R) CPU E7-8891 v2 @ 3.20GHz       | 10         | 15201   | 19921  | 14488 |
 | 117 - 🟡  | 19.17%     | AMD EPYC 7451 24-Core Processor                 | 5          | 15548   | 19875  | 8691  |
 | 118 - 🟡  | 19.02%     | Intel(R) Xeon(R) CPU E7-8891 v3 @ 2.80GHz       | 4          | 19540   | 19723  | 19315 |
-| 119 - 🟡  | 18.94%     | AMD EPYC 7551P 32-Core Processor                | 42         | 14406   | 19645  | 735   |
+| 119 - 🟡  | 18.94%     | AMD EPYC 7551P 32-Core Processor                | 43         | 14092   | 19645  | 735   |
 | 120 - 🟡  | 18.89%     | Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz        | 19         | 5949    | 19588  | 31    |
 | 121 - 🟡  | 18.53%     | Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz        | 3          | 12130   | 19212  | 777   |
 | 122 - 🟡  | 18.31%     | Intel(R) Xeon(R) Platinum 8280L CPU @ 2.70GHz   | 2          | 18295   | 18986  | 17604 |
@@ -151,7 +151,7 @@ This repo runs a GitHub Action every day that:
 | 135 - 🟡  | 16.97%     | AMD EPYC 7513 32-Core Processor                 | 3          | 13109   | 17603  | 10818 |
 | 136 - 🟡  | 16.97%     | AMD Ryzen 9 3900X 12-Core Processor             | 2845       | 12534   | 17596  | 621   |
 | 137 - 🟡  | 16.88%     | Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz        | 23         | 11464   | 17505  | 5678  |
-| 138 - 🟡  | 16.81%     | AMD Ryzen 9 5900X 12-Core Processor             | 2905       | 13022   | 17429  | 918   |
+| 138 - 🟡  | 16.81%     | AMD Ryzen 9 5900X 12-Core Processor             | 2906       | 13022   | 17429  | 918   |
 | 139 - 🟡  | 16.74%     | Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz        | 9          | 9316    | 17365  | 3157  |
 | 140 - 🟡  | 16.59%     | Intel(R) Xeon(R) CPU E7-4830 v3 @ 2.10GHz       | 1          | 17204   | 17204  | 17204 |
 | 141 - 🟡  | 16.59%     | Intel(R) Xeon(R) CPU E5-2698 v4 @ 2.20GHz       | 22         | 9475    | 17201  | 4056  |
@@ -344,7 +344,7 @@ This repo runs a GitHub Action every day that:
 | 328 - 🟠  | 8.36%      | Intel(R) Xeon(R) CPU E5-2660 v4 @ 2.00GHz       | 5          | 6181    | 8673   | 3465  |
 | 329 - 🟠  | 8.35%      | Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz       | 55         | 5184    | 8658   | 219   |
 | 330 - 🟠  | 8.34%      | Intel(R) Xeon(R) Gold 6149 CPU @ 3.10GHz        | 1          | 8653    | 8653   | 8653  |
-| 331 - 🟠  | 8.05%      | AMD Ryzen 5 5600 6-Core Processor               | 40         | 6822    | 8347   | 4504  |
+| 331 - 🟠  | 8.05%      | AMD Ryzen 5 5600 6-Core Processor               | 41         | 6854    | 8347   | 4504  |
 | 332 - 🟠  | 7.97%      | Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz        | 2          | 8010    | 8262   | 7758  |
 | 333 - 🟠  | 7.93%      | Intel(R) Xeon(R) W-2170B CPU @ 2.50GHz          | 7          | 5982    | 8223   | 597   |
 | 334 - 🟠  | 7.88%      | Intel(R) Xeon(R) W-2175 CPU @ 2.50GHz           | 5          | 7499    | 8169   | 5215  |
@@ -605,7 +605,7 @@ This repo runs a GitHub Action every day that:
 | 589 - 🔴  | 3.43%      | Intel(R) Xeon(R) CPU X5670 @ 2.93GHz            | 26         | 2672    | 3553   | 772   |
 | 590 - 🔴  | 3.42%      | Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz       | 17         | 2227    | 3544   | 948   |
 | 591 - 🔴  | 3.42%      | 12th Gen Intel(R) Core(TM) i7-1280P             | 2          | 2858    | 3543   | 2173  |
-| 592 - 🔴  | 3.41%      | Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz        | 147        | 2223    | 3535   | 647   |
+| 592 - 🔴  | 3.41%      | Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz        | 148        | 2224    | 3535   | 647   |
 | 593 - 🔴  | 3.41%      | Intel(R) Xeon(R) CPU E5-2440 0 @ 2.40GHz        | 10         | 1558    | 3535   | 538   |
 | 594 - 🔴  | 3.41%      | Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz        | 34         | 2123    | 3534   | 836   |
 | 595 - 🔴  | 3.40%      | Apple M1 Max                                    | 15         | 3433    | 3530   | 3208  |
@@ -1270,34 +1270,34 @@ This repo runs a GitHub Action every day that:
 | 1254 - 🗿 | 0.63%      | Intel(R) Pentium(R) Silver J5005 CPU @ 1.50GHz  | 6          | 482     | 652    | 308   |
 | 1255 - 🗿 | 0.63%      | Intel(R) Pentium(R) CPU G3258 @ 3.20GHz         | 6          | 518     | 649    | 404   |
 | 1256 - 🗿 | 0.63%      | AMD Ryzen 3 2300U with Radeon Vega Mobile Gfx   | 1          | 648     | 648    | 648   |
-| 1257 - 🗿 | 0.62%      | Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz        | 8          | 538     | 646    | 436   |
-| 1258 - 🗿 | 0.62%      | Intel(R) Xeon(R) CPU E5462 @ 2.80GHz            | 3          | 470     | 644    | 162   |
-| 1259 - 🗿 | 0.62%      | Intel(R) Xeon(R) CPU W3550 @ 3.07GHz            | 3          | 335     | 639    | 121   |
-| 1260 - 🗿 | 0.62%      | Intel(R) Celeron(R) G5920 CPU @ 3.50GHz         | 1          | 639     | 639    | 639   |
-| 1261 - 🗿 | 0.61%      | Intel(R) Core(TM) m7-6Y75 CPU @ 1.20GHz         | 2          | 460     | 637    | 283   |
-| 1262 - 🗿 | 0.61%      | Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz        | 5          | 553     | 634    | 508   |
-| 1263 - 🗿 | 0.61%      | Intel(R) Xeon(R) CPU 5160 @ 3.00GHz             | 3          | 415     | 634    | 124   |
-| 1264 - 🗿 | 0.61%      | Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz        | 5          | 361     | 633    | 51    |
-| 1265 - 🗿 | 0.61%      | AMD A10-5750M APU with Radeon(tm) HD Graphics   | 3          | 601     | 630    | 560   |
-| 1266 - 🗿 | 0.61%      | VirtualApple @ 2.50GHz                          | 2          | 616     | 628    | 604   |
-| 1267 - 🗿 | 0.60%      | Intel(R) Xeon(R) CPU E5472 @ 3.00GHz            | 1          | 626     | 626    | 626   |
-| 1268 - 🗿 | 0.60%      | AMD A8-5600K APU with Radeon(tm) HD Graphics    | 2          | 611     | 620    | 602   |
-| 1269 - 🗿 | 0.59%      | AMD Phenom(tm) II X4 965 Processor              | 11         | 456     | 612    | 74    |
-| 1270 - 🗿 | 0.59%      | Intel(R) Core(TM) i7-3687U CPU @ 2.10GHz        | 2          | 569     | 610    | 528   |
-| 1271 - 🗿 | 0.59%      | AMD Ryzen 5 PRO 2500U w/ Radeon Vega Mobile Gfx | 1          | 609     | 609    | 609   |
-| 1272 - 🗿 | 0.59%      | Intel(R) Core(TM) i7-3517U CPU @ 1.90GHz        | 2          | 498     | 608    | 388   |
-| 1273 - 🗿 | 0.58%      | Intel(R) Core(TM) i7-3517UE CPU @ 1.70GHz       | 1          | 603     | 603    | 603   |
-| 1274 - 🗿 | 0.58%      | Intel(R) Core(TM) i7-6650U CPU @ 2.20GHz        | 1          | 601     | 601    | 601   |
-| 1275 - 🗿 | 0.58%      | AMD Phenom(tm) II X4 970 Processor              | 1          | 600     | 600    | 600   |
-| 1276 - 🗿 | 0.58%      | Intel(R) Core(TM) i5 CPU 661 @ 3.33GHz          | 1          | 597     | 597    | 597   |
-| 1277 - 🗿 | 0.57%      | Intel(R) Core(TM) i7 CPU M 640 @ 2.80GHz        | 5          | 521     | 591    | 395   |
-| 1278 - 🗿 | 0.57%      | AMD Athlon(tm) X4 950 Quad Core Processor       | 1          | 587     | 587    | 587   |
-| 1279 - 🗿 | 0.56%      | Intel(R) Core(TM) i5-2435M CPU @ 2.40GHz        | 1          | 585     | 585    | 585   |
-| 1280 - 🗿 | 0.56%      | AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx   | 3          | 504     | 584    | 354   |
-| 1281 - 🗿 | 0.56%      | Intel(R) Xeon(R) CPU X3430 @ 2.40GHz            | 3          | 527     | 584    | 484   |
-| 1282 - 🗿 | 0.56%      | AMD Athlon(tm) X4 730 Quad Core Processor       | 1          | 581     | 581    | 581   |
-| 1283 - 🗿 | 0.56%      | Intel(R) Xeon(R) CPU W3565 @ 3.20GHz            | 1          | 579     | 579    | 579   |
-| 1284 - 🗿 | 0.56%      | Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz     | 8          | 384     | 578    | 75    |
+| 1257 - 🗿 | 0.63%      | Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz     | 9          | 413     | 648    | 75    |
+| 1258 - 🗿 | 0.62%      | Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz        | 8          | 538     | 646    | 436   |
+| 1259 - 🗿 | 0.62%      | Intel(R) Xeon(R) CPU E5462 @ 2.80GHz            | 3          | 470     | 644    | 162   |
+| 1260 - 🗿 | 0.62%      | Intel(R) Xeon(R) CPU W3550 @ 3.07GHz            | 3          | 335     | 639    | 121   |
+| 1261 - 🗿 | 0.62%      | Intel(R) Celeron(R) G5920 CPU @ 3.50GHz         | 1          | 639     | 639    | 639   |
+| 1262 - 🗿 | 0.61%      | Intel(R) Core(TM) m7-6Y75 CPU @ 1.20GHz         | 2          | 460     | 637    | 283   |
+| 1263 - 🗿 | 0.61%      | Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz        | 5          | 553     | 634    | 508   |
+| 1264 - 🗿 | 0.61%      | Intel(R) Xeon(R) CPU 5160 @ 3.00GHz             | 3          | 415     | 634    | 124   |
+| 1265 - 🗿 | 0.61%      | Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz        | 5          | 361     | 633    | 51    |
+| 1266 - 🗿 | 0.61%      | AMD A10-5750M APU with Radeon(tm) HD Graphics   | 3          | 601     | 630    | 560   |
+| 1267 - 🗿 | 0.61%      | VirtualApple @ 2.50GHz                          | 2          | 616     | 628    | 604   |
+| 1268 - 🗿 | 0.60%      | Intel(R) Xeon(R) CPU E5472 @ 3.00GHz            | 1          | 626     | 626    | 626   |
+| 1269 - 🗿 | 0.60%      | AMD A8-5600K APU with Radeon(tm) HD Graphics    | 2          | 611     | 620    | 602   |
+| 1270 - 🗿 | 0.59%      | AMD Phenom(tm) II X4 965 Processor              | 11         | 456     | 612    | 74    |
+| 1271 - 🗿 | 0.59%      | Intel(R) Core(TM) i7-3687U CPU @ 2.10GHz        | 2          | 569     | 610    | 528   |
+| 1272 - 🗿 | 0.59%      | AMD Ryzen 5 PRO 2500U w/ Radeon Vega Mobile Gfx | 1          | 609     | 609    | 609   |
+| 1273 - 🗿 | 0.59%      | Intel(R) Core(TM) i7-3517U CPU @ 1.90GHz        | 2          | 498     | 608    | 388   |
+| 1274 - 🗿 | 0.58%      | Intel(R) Core(TM) i7-3517UE CPU @ 1.70GHz       | 1          | 603     | 603    | 603   |
+| 1275 - 🗿 | 0.58%      | Intel(R) Core(TM) i7-6650U CPU @ 2.20GHz        | 1          | 601     | 601    | 601   |
+| 1276 - 🗿 | 0.58%      | AMD Phenom(tm) II X4 970 Processor              | 1          | 600     | 600    | 600   |
+| 1277 - 🗿 | 0.58%      | Intel(R) Core(TM) i5 CPU 661 @ 3.33GHz          | 1          | 597     | 597    | 597   |
+| 1278 - 🗿 | 0.57%      | Intel(R) Core(TM) i7 CPU M 640 @ 2.80GHz        | 5          | 521     | 591    | 395   |
+| 1279 - 🗿 | 0.57%      | AMD Athlon(tm) X4 950 Quad Core Processor       | 1          | 587     | 587    | 587   |
+| 1280 - 🗿 | 0.56%      | Intel(R) Core(TM) i5-2435M CPU @ 2.40GHz        | 1          | 585     | 585    | 585   |
+| 1281 - 🗿 | 0.56%      | AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx   | 3          | 504     | 584    | 354   |
+| 1282 - 🗿 | 0.56%      | Intel(R) Xeon(R) CPU X3430 @ 2.40GHz            | 3          | 527     | 584    | 484   |
+| 1283 - 🗿 | 0.56%      | AMD Athlon(tm) X4 730 Quad Core Processor       | 1          | 581     | 581    | 581   |
+| 1284 - 🗿 | 0.56%      | Intel(R) Xeon(R) CPU W3565 @ 3.20GHz            | 1          | 579     | 579    | 579   |
 | 1285 - 🗿 | 0.55%      | Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz        | 8          | 478     | 575    | 367   |
 | 1286 - 🗿 | 0.55%      | AMD A8-3870 APU with Radeon(tm) HD Graphics     | 4          | 539     | 574    | 503   |
 | 1287 - 🗿 | 0.55%      | Intel(R) Core(TM)2 Quad CPU Q9500 @ 2.83GHz     | 2          | 494     | 573    | 414   |

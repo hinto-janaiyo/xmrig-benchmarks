@@ -947,8 +947,8 @@
     "cpu": "AMD EPYC 7551P 32-Core Processor",
     "hashrate": 19645.207551617783,
     "hashrate_1t": 613.9127359880557,
-    "count": 42,
-    "size": 70000000,
+    "count": 43,
+    "size": 71000000,
     "threads": 32
   },
   {
@@ -1099,8 +1099,8 @@
     "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
     "hashrate": 17429.801474561205,
     "hashrate_1t": 918.7309018813772,
-    "count": 2905,
-    "size": 5092000000,
+    "count": 2906,
+    "size": 5093000000,
     "threads": 24
   },
   {
@@ -2643,8 +2643,8 @@
     "cpu": "AMD Ryzen 5 5600 6-Core Processor",
     "hashrate": 8347.384764353328,
     "hashrate_1t": 761.320068092467,
-    "count": 40,
-    "size": 49000000,
+    "count": 41,
+    "size": 50000000,
     "threads": 12
   },
   {
@@ -4739,8 +4739,8 @@
     "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
     "hashrate": 3535.4928123431123,
     "hashrate_1t": 883.8732030857781,
-    "count": 147,
-    "size": 291000000,
+    "count": 148,
+    "size": 292000000,
     "threads": 8
   },
   {
@@ -10208,6 +10208,14 @@
     "threads": 2
   },
   {
+    "cpu": "Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz",
+    "hashrate": 648.2877100857361,
+    "hashrate_1t": 162.07192752143402,
+    "count": 9,
+    "size": 9000000,
+    "threads": 4
+  },
+  {
     "cpu": "Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz",
     "hashrate": 646.5110385294719,
     "hashrate_1t": 323.25551926473594,
@@ -10429,14 +10437,6 @@
     "hashrate_1t": 144.94072793871675,
     "count": 1,
     "size": 1000000,
-    "threads": 4
-  },
-  {
-    "cpu": "Intel(R) Core(TM)2 Quad CPU Q9400 @ 2.66GHz",
-    "hashrate": 578.8380289638973,
-    "hashrate_1t": 144.70950724097432,
-    "count": 8,
-    "size": 8000000,
     "threads": 4
   },
   {
