@@ -81,14 +81,14 @@
 | 79 - 🟡 | 26.25% | Intel(R) Xeon(R) Platinum 8373C CPU @ 2.60GHz | 1 | 27222 | 27222 | 27222 |
 | 80 - 🟡 | 25.97% | Intel(R) Xeon(R) Platinum 8260 CPU @ 2.40GHz | 2 | 16225 | 26932 | 5519 |
 | 81 - 🟡 | 25.90% | Intel(R) Xeon(R) CPU E5-4667 v4 @ 2.20GHz | 1 | 26859 | 26859 | 26859 |
-| 82 - 🟡 | 25.33% | AMD Ryzen 9 7950X 16-Core Processor | 128 | 19005 | 26268 | 8018 |
+| 82 - 🟡 | 25.33% | AMD Ryzen 9 7950X 16-Core Processor | 129 | 19029 | 26268 | 8018 |
 | 83 - 🟡 | 25.26% | Intel(R) Xeon(R) Platinum 8180 CPU @ 2.50GHz | 4 | 22333 | 26195 | 15137 |
 | 84 - 🟡 | 24.58% | Intel(R) Xeon(R) Gold 6230R CPU @ 2.10GHz | 5 | 14584 | 25489 | 1178 |
 | 85 - 🟡 | 24.58% | AMD EPYC 7Y43 48-Core Processor | 4 | 25183 | 25489 | 24805 |
 | 86 - 🟡 | 24.38% | Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz | 8 | 14544 | 25279 | 747 |
 | 87 - 🟡 | 24.26% | AMD EPYC 7401 24-Core Processor | 2 | 24802 | 25164 | 24440 |
 | 88 - 🟡 | 23.86% | Intel(R) Xeon(R) CPU E7-8880 v3 @ 2.30GHz | 8 | 18683 | 24748 | 7214 |
-| 89 - 🟡 | 23.70% | Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz | 176 | 1153 | 24580 | 128 |
+| 89 - 🟡 | 23.70% | Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz | 177 | 1148 | 24580 | 128 |
 | 90 - 🟡 | 23.70% | Intel(R) Xeon(R) Gold 6258R CPU @ 2.70GHz | 9 | 12023 | 24576 | 6611 |
 | 91 - 🟡 | 23.67% | Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz | 5 | 12491 | 24548 | 8018 |
 | 92 - 🟡 | 23.38% | Intel(R) Xeon(R) CPU E7-8895 v2 @ 2.80GHz | 2 | 24238 | 24244 | 24232 |
@@ -137,7 +137,7 @@
 | 135 - 🟡 | 16.97% | AMD EPYC 7513 32-Core Processor | 3 | 13109 | 17603 | 10818 |
 | 136 - 🟡 | 16.97% | AMD Ryzen 9 3900X 12-Core Processor | 2845 | 12534 | 17596 | 621 |
 | 137 - 🟡 | 16.88% | Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz | 23 | 11464 | 17505 | 5678 |
-| 138 - 🟡 | 16.81% | AMD Ryzen 9 5900X 12-Core Processor | 2906 | 13022 | 17429 | 918 |
+| 138 - 🟡 | 16.81% | AMD Ryzen 9 5900X 12-Core Processor | 2908 | 13020 | 17429 | 918 |
 | 139 - 🟡 | 16.74% | Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz | 9 | 9316 | 17365 | 3157 |
 | 140 - 🟡 | 16.59% | Intel(R) Xeon(R) CPU E7-4830 v3 @ 2.10GHz | 1 | 17204 | 17204 | 17204 |
 | 141 - 🟡 | 16.59% | Intel(R) Xeon(R) CPU E5-2698 v4 @ 2.20GHz | 22 | 9475 | 17201 | 4056 |
@@ -168,7 +168,7 @@
 | 166 - 🟠 | 14.89% | Intel(R) Xeon(R) Platinum 8362 CPU @ 2.80GHz | 3 | 14587 | 15436 | 12890 |
 | 167 - 🟠 | 14.82% | Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz | 2 | 15348 | 15367 | 15329 |
 | 168 - 🟠 | 14.81% | Intel(R) Xeon(R) W-3275M CPU @ 2.50GHz | 6 | 12588 | 15357 | 10429 |
-| 169 - 🟠 | 14.69% | AMD Ryzen 9 3900 12-Core Processor | 120 | 11671 | 15238 | 3379 |
+| 169 - 🟠 | 14.69% | AMD Ryzen 9 3900 12-Core Processor | 122 | 11643 | 15238 | 3379 |
 | 170 - 🟠 | 14.69% | Genuine Intel(R) CPU $0000%@ | 3 | 11581 | 15232 | 9694 |
 | 171 - 🟠 | 14.50% | Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz | 11 | 9284 | 15038 | 4584 |
 | 172 - 🟠 | 14.44% | AMD EPYC 7401P 24-Core Processor | 12 | 12847 | 14971 | 8770 |
@@ -217,7 +217,7 @@
 | 215 - 🟠 | 11.68% | 12th Gen Intel(R) Core(TM) i9-12900KS | 25 | 9563 | 12110 | 8124 |
 | 216 - 🟠 | 11.64% | Intel(R) Xeon(R) Gold 6256 CPU @ 3.60GHz | 4 | 10302 | 12072 | 9157 |
 | 217 - 🟠 | 11.62% | Genuine Intel(R) CPU 0000 @ 2.20GHz | 4 | 6726 | 12051 | 3070 |
-| 218 - 🟠 | 11.60% | AMD Ryzen 7 3700X 8-Core Processor | 1467 | 7563 | 12032 | 596 |
+| 218 - 🟠 | 11.60% | AMD Ryzen 7 3700X 8-Core Processor | 1468 | 7564 | 12032 | 596 |
 | 219 - 🟠 | 11.37% | Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz | 70 | 6633 | 11795 | 571 |
 | 220 - 🟠 | 11.36% | 13th Gen Intel(R) Core(TM) i7-13700KF | 7 | 10573 | 11777 | 6251 |
 | 221 - 🟠 | 11.25% | Intel(R) Xeon(R) Gold 5317 CPU @ 3.00GHz | 1 | 11670 | 11670 | 11670 |
@@ -245,14 +245,14 @@
 | 243 - 🟠 | 10.42% | Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz | 42 | 5082 | 10811 | 1446 |
 | 244 - 🟠 | 10.42% | Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz | 24 | 7181 | 10807 | 3289 |
 | 245 - 🟠 | 10.40% | Intel(R) Xeon(R) Silver 4210R CPU @ 2.40GHz | 16 | 7174 | 10788 | 3102 |
-| 246 - 🟠 | 10.37% | Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz | 72 | 6907 | 10751 | 2998 |
+| 246 - 🟠 | 10.37% | Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz | 73 | 6885 | 10751 | 2998 |
 | 247 - 🟠 | 10.26% | Intel(R) Xeon(R) Gold 6234 CPU @ 3.30GHz | 2 | 9112 | 10642 | 7582 |
 | 248 - 🟠 | 10.26% | Intel(R) Xeon(R) CPU E5-2658A v3 @ 2.20GHz | 6 | 7685 | 10642 | 5331 |
 | 249 - 🟠 | 10.25% | Genuine Intel(R) CPU 0000 @ 2.00GHz | 16 | 5503 | 10625 | 900 |
 | 250 - 🟠 | 10.24% | Intel(R) Core(TM) i9-9980XE CPU @ 3.00GHz | 1 | 10616 | 10616 | 10616 |
 | 251 - 🟠 | 10.21% | Intel(R) Xeon(R) CPU E7- 4860 @ 2.27GHz | 5 | 7623 | 10585 | 5598 |
 | 252 - 🟠 | 10.15% | Intel(R) Xeon(R) Platinum P-8136 CPU @ 2.00GHz | 2 | 10051 | 10522 | 9580 |
-| 253 - 🟠 | 10.14% | AMD Ryzen 7 5800X3D 8-Core Processor | 40 | 8843 | 10516 | 1341 |
+| 253 - 🟠 | 10.14% | AMD Ryzen 7 5800X3D 8-Core Processor | 41 | 8851 | 10516 | 1341 |
 | 254 - 🟠 | 10.12% | Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz | 2 | 10480 | 10490 | 10471 |
 | 255 - 🟠 | 10.04% | Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz | 31 | 6029 | 10408 | 2008 |
 | 256 - 🟠 | 10.02% | Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz | 16 | 5430 | 10396 | 650 |
@@ -270,7 +270,7 @@
 | 268 - 🟠 | 9.74% | Intel(R) Xeon(R) CPU E5-2663 v3 @ 2.80GHz | 1 | 10099 | 10099 | 10099 |
 | 269 - 🟠 | 9.72% | Intel(R) Xeon(R) W-3245 CPU @ 3.20GHz | 1 | 10077 | 10077 | 10077 |
 | 270 - 🟠 | 9.67% | Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz | 246 | 5403 | 10024 | 848 |
-| 271 - 🟠 | 9.65% | Genuine Intel(R) CPU @ 2.00GHz | 9 | 5372 | 10012 | 2015 |
+| 271 - 🟠 | 9.65% | Genuine Intel(R) CPU @ 2.00GHz | 10 | 5385 | 10012 | 2015 |
 | 272 - 🟠 | 9.63% | Intel(R) Xeon(R) CPU E5-2687W v3 @ 3.10GHz | 6 | 9168 | 9989 | 5173 |
 | 273 - 🟠 | 9.60% | ARMv8 | 12 | 2342 | 9954 | 249 |
 | 274 - 🟠 | 9.60% | Intel(R) Xeon(R) CPU E7-4809 v3 @ 2.00GHz | 1 | 9954 | 9954 | 9954 |
@@ -357,7 +357,7 @@
 | 355 - 🟠 | 7.37% | Intel(R) Xeon(R) CPU E5-2687W 0 @ 3.10GHz | 12 | 5693 | 7640 | 2489 |
 | 356 - 🟠 | 7.32% | AMD Eng Sample: 100-000000263-30_Y | 8 | 7294 | 7590 | 6830 |
 | 357 - 🟠 | 7.30% | Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz | 30 | 3243 | 7572 | 980 |
-| 358 - 🟠 | 7.29% | AMD Ryzen 7 5700G with Radeon Graphics | 173 | 4922 | 7556 | 807 |
+| 358 - 🟠 | 7.29% | AMD Ryzen 7 5700G with Radeon Graphics | 174 | 4909 | 7556 | 807 |
 | 359 - 🟠 | 7.29% | AMD Opteron(TM) Processor 6276 | 4 | 4535 | 7555 | 1480 |
 | 360 - 🟠 | 7.24% | Genuine Intel(R) CPU 0000 @ 2.40GHz | 45 | 2579 | 7503 | 620 |
 | 361 - 🟠 | 7.19% | Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz | 43 | 4602 | 7459 | 2062 |
@@ -448,7 +448,7 @@
 | 446 - 🔴 | 5.34% | Intel(R) Xeon(R) CPU E5-2440 v2 @ 1.90GHz | 2 | 4122 | 5533 | 2711 |
 | 447 - 🔴 | 5.30% | Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz | 26 | 4075 | 5495 | 1616 |
 | 448 - 🔴 | 5.29% | AMD Ryzen Threadripper 1900X 8-Core Processor | 10 | 3565 | 5490 | 1477 |
-| 449 - 🔴 | 5.28% | AMD Ryzen 5 2600 Six-Core Processor | 446 | 3364 | 5479 | 764 |
+| 449 - 🔴 | 5.28% | AMD Ryzen 5 2600 Six-Core Processor | 447 | 3361 | 5479 | 764 |
 | 450 - 🔴 | 5.26% | Intel(R) Xeon(R) E-2278G CPU @ 3.40GHz | 2 | 4058 | 5452 | 2664 |
 | 451 - 🔴 | 5.23% | 11th Gen Intel(R) Core(TM) i9-11950H @ 2.60GHz | 1 | 5428 | 5428 | 5428 |
 | 452 - 🔴 | 5.19% | AMD Ryzen 5 1600 Six-Core Processor | 190 | 3275 | 5378 | 711 |
@@ -491,9 +491,9 @@
 | 489 - 🔴 | 4.66% | 11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz | 52 | 2963 | 4829 | 737 |
 | 490 - 🔴 | 4.64% | Intel(R) Xeon(R) Bronze 3204 CPU @ 1.90GHz | 1 | 4817 | 4817 | 4817 |
 | 491 - 🔴 | 4.63% | Intel(R) Xeon(R) CPU E5-2649 v3 @ 2.30GHz | 4 | 4700 | 4802 | 4475 |
-| 492 - 🔴 | 4.60% | Genuine Intel(R) CPU 0000 @ 3.30GHz | 1 | 4769 | 4769 | 4769 |
-| 493 - 🔴 | 4.59% | Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz | 32 | 3251 | 4756 | 321 |
-| 494 - 🔴 | 4.59% | 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz | 38 | 3039 | 4754 | 343 |
+| 492 - 🔴 | 4.61% | 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz | 40 | 3125 | 4784 | 343 |
+| 493 - 🔴 | 4.60% | Genuine Intel(R) CPU 0000 @ 3.30GHz | 1 | 4769 | 4769 | 4769 |
+| 494 - 🔴 | 4.59% | Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz | 32 | 3251 | 4756 | 321 |
 | 495 - 🔴 | 4.58% | Apple M2 Max | 2 | 4619 | 4748 | 4490 |
 | 496 - 🔴 | 4.55% | Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz | 21 | 2706 | 4723 | 900 |
 | 497 - 🔴 | 4.54% | AMD Opteron(tm) Processor 6174 | 6 | 1969 | 4706 | 942 |
@@ -651,7 +651,7 @@
 | 649 - 🔴 | 2.90% | Intel(R) Xeon(R) Gold 5122 CPU @ 3.60GHz | 1 | 3006 | 3006 | 3006 |
 | 650 - 🔴 | 2.89% | 11th Gen Intel(R) Core(TM) i7-11700T @ 1.40GHz | 7 | 2730 | 2999 | 1524 |
 | 651 - 🔴 | 2.88% | Intel(R) Xeon(R) E-2134 CPU @ 3.50GHz | 32 | 2403 | 2987 | 901 |
-| 652 - 🔴 | 2.88% | AMD Ryzen 5 4600G with Radeon Graphics | 8 | 1765 | 2984 | 568 |
+| 652 - 🔴 | 2.88% | AMD Ryzen 5 4600G with Radeon Graphics | 9 | 1861 | 2984 | 568 |
 | 653 - 🔴 | 2.88% | 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz | 58 | 1651 | 2982 | 304 |
 | 654 - 🔴 | 2.87% | Intel(R) Xeon(R) E-2286M CPU @ 2.40GHz | 1 | 2977 | 2977 | 2977 |
 | 655 - 🔴 | 2.87% | AMD FX-8370 Eight-Core Processor | 7 | 2338 | 2976 | 1371 |
@@ -689,7 +689,7 @@
 | 687 - 🔴 | 2.72% | AMD Ryzen 7 4700U with Radeon Graphics | 41 | 1889 | 2816 | 775 |
 | 688 - 🔴 | 2.70% | Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz | 114 | 1935 | 2800 | 367 |
 | 689 - 🔴 | 2.70% | Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz | 15 | 1635 | 2800 | 904 |
-| 690 - 🔴 | 2.70% | AMD Ryzen 5 5500U with Radeon Graphics | 25 | 1732 | 2799 | 707 |
+| 690 - 🔴 | 2.70% | AMD Ryzen 5 5500U with Radeon Graphics | 26 | 1711 | 2799 | 707 |
 | 691 - 🔴 | 2.70% | Intel(R) Xeon(R) E-2224G CPU @ 3.50GHz | 3 | 2685 | 2799 | 2547 |
 | 692 - 🔴 | 2.70% | 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz | 16 | 2041 | 2798 | 490 |
 | 693 - 🔴 | 2.70% | Apple M2 | 8 | 2449 | 2797 | 1792 |
@@ -812,7 +812,7 @@
 | 810 - 🔴 | 2.18% | Intel(R) Core(TM) i7-4900MQ CPU @ 2.80GHz | 4 | 2198 | 2264 | 2169 |
 | 811 - 🔴 | 2.18% | Intel(R) Xeon(R) CPU E3-1225 v3 @ 3.20GHz | 11 | 1401 | 2262 | 883 |
 | 812 - 🔴 | 2.17% | Intel(R) Xeon(R) W-1250 CPU @ 3.30GHz | 1 | 2252 | 2252 | 2252 |
-| 813 - 🔴 | 2.17% | Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz | 40 | 1479 | 2250 | 467 |
+| 813 - 🔴 | 2.17% | Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz | 41 | 1471 | 2250 | 467 |
 | 814 - 🔴 | 2.17% | AMD FX(tm)-8120 Eight-Core Processor | 9 | 1450 | 2248 | 593 |
 | 815 - 🔴 | 2.17% | Intel(R) Core(TM) i7-8705G CPU @ 3.10GHz | 5 | 1688 | 2245 | 1349 |
 | 816 - 🔴 | 2.16% | Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz | 5 | 1306 | 2242 | 510 |
@@ -867,7 +867,7 @@
 | 865 - 🔴 | 1.92% | Intel(R) Xeon(R) CPU E31275 @ 3.40GHz | 1 | 1988 | 1988 | 1988 |
 | 866 - 🔴 | 1.91% | Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz | 7 | 1354 | 1981 | 895 |
 | 867 - 🔴 | 1.90% | Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz | 66 | 1355 | 1973 | 144 |
-| 868 - 🔴 | 1.89% | Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz | 30 | 1109 | 1955 | 295 |
+| 868 - 🔴 | 1.89% | Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz | 34 | 1114 | 1955 | 295 |
 | 869 - 🔴 | 1.88% | 12th Gen Intel(R) Core(TM) i5-12450H | 2 | 1643 | 1953 | 1334 |
 | 870 - 🔴 | 1.88% | Intel(R) Core(TM) i7-8569U CPU @ 2.80GHz | 1 | 1948 | 1948 | 1948 |
 | 871 - 🔴 | 1.88% | Intel Xeon E312xx (Sandy Bridge, IBRS update) | 2 | 972 | 1945 | 1945 |

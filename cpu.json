@@ -732,8 +732,8 @@
         "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
         "rank": 82,
         "percent": 25.33,
-        "benchmarks": 128,
-        "average": 19005.5121216,
+        "benchmarks": 129,
+        "average": 19029.6363111,
         "high": 26268.78217925817,
         "low": 8018.654598056919
     },
@@ -795,8 +795,8 @@
         "cpu": "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
         "rank": 89,
         "percent": 23.70,
-        "benchmarks": 176,
-        "average": 1153.2226453,
+        "benchmarks": 177,
+        "average": 1148.3268874,
         "high": 24580.291522257456,
         "low": 128.74269497855855
     },
@@ -1236,8 +1236,8 @@
         "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
         "rank": 138,
         "percent": 16.81,
-        "benchmarks": 2906,
-        "average": 13022.2054442,
+        "benchmarks": 2908,
+        "average": 13020.9565356,
         "high": 17429.801474561205,
         "low": 918.7309018813772
     },
@@ -1515,8 +1515,8 @@
         "cpu": "AMD Ryzen 9 3900 12-Core Processor",
         "rank": 169,
         "percent": 14.69,
-        "benchmarks": 120,
-        "average": 11671.7189733,
+        "benchmarks": 122,
+        "average": 11643.7775774,
         "high": 15238.095238095237,
         "low": 3379.668589698094
     },
@@ -1956,8 +1956,8 @@
         "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
         "rank": 218,
         "percent": 11.60,
-        "benchmarks": 1467,
-        "average": 7563.4909660,
+        "benchmarks": 1468,
+        "average": 7564.2650273,
         "high": 12032.535977282572,
         "low": 596.9586152470395
     },
@@ -2208,8 +2208,8 @@
         "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
         "rank": 246,
         "percent": 10.37,
-        "benchmarks": 72,
-        "average": 6907.2967948,
+        "benchmarks": 73,
+        "average": 6885.1489131,
         "high": 10751.693929378574,
         "low": 2998.398255651831
     },
@@ -2271,8 +2271,8 @@
         "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
         "rank": 253,
         "percent": 10.14,
-        "benchmarks": 40,
-        "average": 8843.1886299,
+        "benchmarks": 41,
+        "average": 8851.7235382,
         "high": 10516.131746098516,
         "low": 1341.3042574338435
     },
@@ -2433,8 +2433,8 @@
         "cpu": "Genuine Intel(R) CPU @ 2.00GHz",
         "rank": 271,
         "percent": 9.65,
-        "benchmarks": 9,
-        "average": 5372.2465480,
+        "benchmarks": 10,
+        "average": 5385.6463013,
         "high": 10012.01441730076,
         "low": 2015.227055632358
     },
@@ -3216,8 +3216,8 @@
         "cpu": "AMD Ryzen 7 5700G with Radeon Graphics",
         "rank": 358,
         "percent": 7.29,
-        "benchmarks": 173,
-        "average": 4922.0017957,
+        "benchmarks": 174,
+        "average": 4909.1257454,
         "high": 7556.465689867535,
         "low": 807.9600221381046
     },
@@ -4035,8 +4035,8 @@
         "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
         "rank": 449,
         "percent": 5.28,
-        "benchmarks": 446,
-        "average": 3364.3274756,
+        "benchmarks": 447,
+        "average": 3361.0655261,
         "high": 5479.572155006137,
         "low": 764.8645692550449
     },
@@ -4419,8 +4419,17 @@
         "low": 4475.334195581055
     },
     {
-        "cpu": "Genuine Intel(R) CPU 0000 @ 3.30GHz",
+        "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
         "rank": 492,
+        "percent": 4.61,
+        "benchmarks": 40,
+        "average": 3125.0268685,
+        "high": 4784.505856235169,
+        "low": 343.6093134617195
+    },
+    {
+        "cpu": "Genuine Intel(R) CPU 0000 @ 3.30GHz",
+        "rank": 493,
         "percent": 4.60,
         "benchmarks": 1,
         "average": 4769.8545194,
@@ -4429,21 +4438,12 @@
     },
     {
         "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz",
-        "rank": 493,
+        "rank": 494,
         "percent": 4.59,
         "benchmarks": 32,
         "average": 3251.0495237,
         "high": 4756.066124538543,
         "low": 321.3775217570172
-    },
-    {
-        "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
-        "rank": 494,
-        "percent": 4.59,
-        "benchmarks": 38,
-        "average": 3039.9748053,
-        "high": 4754.976082470305,
-        "low": 343.6093134617195
     },
     {
         "cpu": "Apple M2 Max",
@@ -5862,8 +5862,8 @@
         "cpu": "AMD Ryzen 5 4600G with Radeon Graphics",
         "rank": 652,
         "percent": 2.88,
-        "benchmarks": 8,
-        "average": 1765.8216464,
+        "benchmarks": 9,
+        "average": 1861.8392630,
         "high": 2984.691517208239,
         "low": 568.4809166641085
     },
@@ -6204,8 +6204,8 @@
         "cpu": "AMD Ryzen 5 5500U with Radeon Graphics",
         "rank": 690,
         "percent": 2.70,
-        "benchmarks": 25,
-        "average": 1732.4437994,
+        "benchmarks": 26,
+        "average": 1711.9762898,
         "high": 2799.8656064508905,
         "low": 707.392527798581
     },
@@ -7311,8 +7311,8 @@
         "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
         "rank": 813,
         "percent": 2.17,
-        "benchmarks": 40,
-        "average": 1479.1565339,
+        "benchmarks": 41,
+        "average": 1471.6458384,
         "high": 2250.3060416216604,
         "low": 467.7517884489632
     },
@@ -7806,8 +7806,8 @@
         "cpu": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
         "rank": 868,
         "percent": 1.89,
-        "benchmarks": 30,
-        "average": 1109.8008542,
+        "benchmarks": 34,
+        "average": 1114.2495289,
         "high": 1955.6077050943584,
         "low": 295.2695456628447
     },
