@@ -723,8 +723,8 @@
     "cpu": "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
     "hashrate": 24580.291522257456,
     "hashrate_1t": 623.2680937843966,
-    "count": 177,
-    "size": 258000000,
+    "count": 178,
+    "size": 259000000,
     "threads": 52
   },
   {
@@ -1043,8 +1043,8 @@
     "cpu": "Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz",
     "hashrate": 18094.01287208076,
     "hashrate_1t": 578.2544856356959,
-    "count": 7,
-    "size": 34000000,
+    "count": 8,
+    "size": 35000000,
     "threads": 32
   },
   {
@@ -1091,8 +1091,8 @@
     "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
     "hashrate": 17596.339961288053,
     "hashrate_1t": 827.9201156438818,
-    "count": 2847,
-    "size": 4975000000,
+    "count": 2848,
+    "size": 4976000000,
     "threads": 25
   },
   {
@@ -1107,8 +1107,8 @@
     "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
     "hashrate": 17429.801474561205,
     "hashrate_1t": 918.7309018813772,
-    "count": 2922,
-    "size": 5109000000,
+    "count": 2926,
+    "size": 5113000000,
     "threads": 24
   },
   {
@@ -1928,6 +1928,14 @@
     "threads": 20
   },
   {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "hashrate": 10930.514717938067,
+    "hashrate_1t": 546.5257358969034,
+    "count": 6,
+    "size": 6000000,
+    "threads": 20
+  },
+  {
     "cpu": "AMD Ryzen 7 PRO 3700 8-Core Processor",
     "hashrate": 10915.8388822181,
     "hashrate_1t": 682.2399301386312,
@@ -2171,8 +2179,8 @@
     "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
     "hashrate": 10024.158221313366,
     "hashrate_1t": 1149.753033048501,
-    "count": 246,
-    "size": 489000000,
+    "count": 247,
+    "size": 490000000,
     "threads": 10
   },
   {
@@ -2411,16 +2419,16 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-2667 v2 @ 3.30GHz",
     "hashrate": 9320.620007642909,
     "hashrate_1t": 582.5387504776818,
-    "count": 19,
-    "size": 37000000,
+    "count": 20,
+    "size": 38000000,
     "threads": 16
   },
   {
     "cpu": "Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz",
     "hashrate": 9318.969694710551,
     "hashrate_1t": 509.5489472718749,
-    "count": 37,
-    "size": 64000000,
+    "count": 38,
+    "size": 65000000,
     "threads": 32
   },
   {
@@ -2454,14 +2462,6 @@
     "count": 51,
     "size": 69000000,
     "threads": 24
-  },
-  {
-    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
-    "hashrate": 9237.363287023352,
-    "hashrate_1t": 461.8681643511676,
-    "count": 4,
-    "size": 4000000,
-    "threads": 20
   },
   {
     "cpu": "Intel(R) Xeon(R) CPU E5-4627 v3 @ 2.60GHz",
@@ -2611,8 +2611,8 @@
     "cpu": "AMD Ryzen 5 3600 6-Core Processor",
     "hashrate": 8842.827582547794,
     "hashrate_1t": 1003.5042367948876,
-    "count": 1706,
-    "size": 3161000000,
+    "count": 1707,
+    "size": 3171000000,
     "threads": 12
   },
   {
@@ -2643,8 +2643,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz",
     "hashrate": 8658.495932671534,
     "hashrate_1t": 469.65776039000383,
-    "count": 55,
-    "size": 136000000,
+    "count": 57,
+    "size": 138000000,
     "threads": 40
   },
   {
@@ -3107,8 +3107,8 @@
     "cpu": "11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz",
     "hashrate": 6863.088252451838,
     "hashrate_1t": 571.9240210376532,
-    "count": 9,
-    "size": 9000000,
+    "count": 10,
+    "size": 19000000,
     "threads": 12
   },
   {
@@ -3347,8 +3347,8 @@
     "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
     "hashrate": 6237.563857059987,
     "hashrate_1t": 693.062650784443,
-    "count": 24,
-    "size": 51000000,
+    "count": 25,
+    "size": 61000000,
     "threads": 9
   },
   {
@@ -3459,8 +3459,8 @@
     "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
     "hashrate": 5893.759098490608,
     "hashrate_1t": 982.293183081768,
-    "count": 228,
-    "size": 390000000,
+    "count": 229,
+    "size": 391000000,
     "threads": 12
   },
   {
@@ -3472,20 +3472,20 @@
     "threads": 32
   },
   {
-    "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
-    "hashrate": 5784.861018714026,
-    "hashrate_1t": 723.1076273392532,
-    "count": 161,
-    "size": 269000000,
-    "threads": 8
-  },
-  {
     "cpu": "Intel(R) Xeon(R) W-2265 CPU @ 3.50GHz",
     "hashrate": 5784.861018714026,
     "hashrate_1t": 482.07175155950216,
     "count": 2,
     "size": 2000000,
     "threads": 12
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
+    "hashrate": 5784.861018714026,
+    "hashrate_1t": 723.1076273392532,
+    "count": 162,
+    "size": 279000000,
+    "threads": 8
   },
   {
     "cpu": "Intel(R) Xeon(R) CPU E5-1680 v2 @ 3.00GHz",
@@ -3611,8 +3611,8 @@
     "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
     "hashrate": 5479.572155006137,
     "hashrate_1t": 830.4709767003062,
-    "count": 448,
-    "size": 763000000,
+    "count": 452,
+    "size": 767000000,
     "threads": 12
   },
   {
@@ -3899,8 +3899,8 @@
     "cpu": "AMD Ryzen 5 3500X 6-Core Processor",
     "hashrate": 4882.1926903811045,
     "hashrate_1t": 813.6987817301841,
-    "count": 47,
-    "size": 92000000,
+    "count": 48,
+    "size": 102000000,
     "threads": 6
   },
   {
@@ -5171,8 +5171,8 @@
     "cpu": "Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz",
     "hashrate": 3043.9547059539755,
     "hashrate_1t": 507.3257843256626,
-    "count": 9,
-    "size": 27000000,
+    "count": 10,
+    "size": 28000000,
     "threads": 6
   },
   {
@@ -5531,8 +5531,8 @@
     "cpu": "AMD Ryzen 5 5500U with Radeon Graphics",
     "hashrate": 2824.8826967460172,
     "hashrate_1t": 706.2206741865043,
-    "count": 27,
-    "size": 45000000,
+    "count": 28,
+    "size": 46000000,
     "threads": 6
   },
   {
@@ -5667,8 +5667,8 @@
     "cpu": "Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
     "hashrate": 2727.924949328794,
     "hashrate_1t": 681.9812373321985,
-    "count": 163,
-    "size": 334000000,
+    "count": 164,
+    "size": 344000000,
     "threads": 8
   },
   {
@@ -7339,8 +7339,8 @@
     "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
     "hashrate": 1818.4496262176792,
     "hashrate_1t": 606.1498754058931,
-    "count": 63,
-    "size": 189000000,
+    "count": 66,
+    "size": 192000000,
     "threads": 4
   },
   {
@@ -7595,8 +7595,8 @@
     "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
     "hashrate": 1700.9695526450078,
     "hashrate_1t": 566.9898508816692,
-    "count": 21,
-    "size": 21000000,
+    "count": 22,
+    "size": 22000000,
     "threads": 3
   },
   {
@@ -8130,9 +8130,9 @@
   {
     "cpu": "Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz",
     "hashrate": 1497.1987411552984,
-    "hashrate_1t": 436.4178473951528,
-    "count": 16,
-    "size": 25000000,
+    "hashrate_1t": 478.1995976428586,
+    "count": 17,
+    "size": 26000000,
     "threads": 4
   },
   {
@@ -8334,6 +8334,14 @@
     "count": 8,
     "size": 8000000,
     "threads": 3
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz",
+    "hashrate": 1412.9602364730251,
+    "hashrate_1t": 470.9867454910084,
+    "count": 6,
+    "size": 6000000,
+    "threads": 8
   },
   {
     "cpu": "AMD Ryzen 5 4600HS with Radeon Graphics @�@�@�@�@\u0001\b @\u0001\b",
@@ -8712,14 +8720,6 @@
     "threads": 2
   },
   {
-    "cpu": "Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz",
-    "hashrate": 1239.8825583240755,
-    "hashrate_1t": 404.6692355069736,
-    "count": 4,
-    "size": 4000000,
-    "threads": 8
-  },
-  {
     "cpu": "Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz",
     "hashrate": 1233.3467357011946,
     "hashrate_1t": 616.6733678505973,
@@ -8947,8 +8947,8 @@
     "cpu": "Intel(R) Core(TM) i7-3540M CPU @ 3.00GHz",
     "hashrate": 1118.7158931492077,
     "hashrate_1t": 559.3579465746038,
-    "count": 3,
-    "size": 3000000,
+    "count": 8,
+    "size": 8000000,
     "threads": 2
   },
   {
@@ -9787,8 +9787,8 @@
     "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
     "hashrate": 795.2545570074253,
     "hashrate_1t": 397.62727850371266,
-    "count": 21,
-    "size": 30000000,
+    "count": 22,
+    "size": 31000000,
     "threads": 2
   },
   {
@@ -9971,8 +9971,8 @@
     "cpu": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz",
     "hashrate": 731.4661830017208,
     "hashrate_1t": 365.7330915008604,
-    "count": 32,
-    "size": 41000000,
+    "count": 33,
+    "size": 42000000,
     "threads": 2
   },
   {
